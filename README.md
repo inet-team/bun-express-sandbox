@@ -25,24 +25,24 @@ bun-express-sandbox/
 ```
 
 
-## Prerequisites
+## Setup Instructions
 
-Ensure you have Bun installed globally
+### 1. Install Bun (if not installed)
 
 ```bash
 npm install -g bun
 ```
 
-
-## Project Initialization
-
-Create a new project and install the required dependencies
+### 2. Initialize the Project and Install Dependencies
 
 ```bash
 bun init -y
 
 bun add express
 bun add -d @types/express
+
+bun add cors
+bun add -d @types/cors
 ```
 
 
