@@ -3,6 +3,28 @@
 A high-performance API simulation environment built with Bun, Express, and TypeScript. This project aims to accelerate front-end integration by providing a fast and lightweight mock API server.
 
 
+## Project Structure
+
+```
+bun-express-sandbox/
+├── src/
+│   ├── configs/
+│   │   └── env.config.ts          # Application config (e.g., port)
+│   ├── controllers/
+│   │   └── news.controller.ts     # Business logic for each endpoint
+│   ├── models/
+│   │   └── news.model.ts          # Type definitions for news items
+│   ├── routes/
+│   │   └── news.route.ts          # API route definitions
+│   └── index.ts                   # Entry point of the Express app
+├── .gitignore                     # Files and folders to be ignored by Git
+├── bun.lock                       # Bun lockfile for dependency resolution
+├── package.json                   # Project metadata and scripts
+├── tsconfig.json                  # TypeScript configuration
+└── README.md                      # Project documentation
+```
+
+
 ## Prerequisites
 
 Ensure you have Bun installed globally
