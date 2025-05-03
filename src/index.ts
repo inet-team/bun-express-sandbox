@@ -3,7 +3,7 @@
 import express from 'express';
 import type { Request, Response, NextFunction } from 'express';
 import cors from 'cors';
-import newsRoute from './routes/news.route';
+import routes from './routes';
 import { AppConfig } from './configs/env.config';
 
 const app = express();
@@ -18,7 +18,7 @@ app.get('/', (_req: Request, res: Response) => {
 });
 
 // Routes
-app.use('/api', newsRoute);
+app.use(routes);
 
 // Handle unknown routes (404)
 app.use((_req: Request, res: Response) => {

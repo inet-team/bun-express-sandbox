@@ -4,7 +4,7 @@ A high-performance API simulation environment built with Bun, Express, and TypeS
 
 **References & Inspirations**   
 - [Build an Express App Using Bun and Deploy It To Render With Docker](https://medium.com/@andrewshearerdev/build-an-express-app-using-bun-and-deploy-it-to-render-with-docker-c19f6bdddc0a)  
-- [Anjasfedo/bun-express GitHub Repository](https://github.com/Anjasfedo/bun-express/blob/main/src/utils/util.ts)
+- [Anjasfedo/bun-express GitHub Repository](https://github.com/Anjasfedo/bun-express)
 
 
 ## Project Structure
@@ -19,10 +19,10 @@ bun-express-sandbox/
 │   ├── models/
 │   │   └── news.model.ts          # Type definitions for news items
 │   ├── routes/
-│   │   └── news.route.ts          # API route definitions
+│   │   └── index.ts               # Centralized API route definitions with /api/v1 prefix
 │   └── index.ts                   # Entry point of the Express app
 │
-├── .dockerignore                  
+├── .dockerignore                  # Files and folders to ignore in Docker build
 ├── .gitignore                     # Files and folders to be ignored by Git
 ├── bun.lock                       # Bun lockfile for dependency resolution
 ├── Dockerfile                     # Container configuration for Bun runtime
