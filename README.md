@@ -1,6 +1,10 @@
 # Bun Express Sandbox
 
-A high-performance API simulation environment built with Bun, Express, and TypeScript. This project aims to accelerate front-end integration by providing a fast and lightweight mock API server.
+A high-performance API simulation environment built with Bun, Express, and TypeScript. Inspired by community implementations and guides, this project aims to accelerate front-end integration by providing a fast and lightweight mock API server.
+
+**References & Inspirations**   
+- [Build an Express App Using Bun and Deploy It To Render With Docker](https://medium.com/@andrewshearerdev/build-an-express-app-using-bun-and-deploy-it-to-render-with-docker-c19f6bdddc0a)  
+- [Anjasfedo/bun-express GitHub Repository](https://github.com/Anjasfedo/bun-express/blob/main/src/utils/util.ts)
 
 
 ## Project Structure
@@ -17,11 +21,24 @@ bun-express-sandbox/
 │   ├── routes/
 │   │   └── news.route.ts          # API route definitions
 │   └── index.ts                   # Entry point of the Express app
+│
+├── .dockerignore                  
 ├── .gitignore                     # Files and folders to be ignored by Git
 ├── bun.lock                       # Bun lockfile for dependency resolution
+├── Dockerfile                     # Container configuration for Bun runtime
 ├── package.json                   # Project metadata and scripts
 ├── tsconfig.json                  # TypeScript configuration
 └── README.md                      # Project documentation
+```
+
+
+## Docker Usage
+
+To build and run the project in a container:
+
+```bash
+docker build -t bun-express-sandbox .
+docker run -d -p 8080:8080 bun-express-sandbox
 ```
 
 
