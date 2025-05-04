@@ -3,28 +3,47 @@
 import type { Request, Response } from 'express';
 import newsData from '../models/news.json';
 import type { NewsItem } from '../models/news.model';
+import {
+  successResponse,
+  internalServerErrorResponse,
+} from '../utils/response';
 
 const allNews = newsData as NewsItem[];
 
-// GET /news — return all news with count
-export const getAllNews = (_req: Request, res: Response) => {
-  res.json({ total: allNews.length, data: allNews });
-};
+// GET /news
+// Filter by ?search, ?categoryId, ?limit
+// Sorted by created_at descending
+export const getNews = async (req: Request, res: Response): Promise<void> => {
+  try {
+    const { search, categoryId, limit } = req.query;
 
-// GET /news/latest — sorted by created_at descending, limited to 5
-export const getLatestNews = (_req: Request, res: Response) => {
-  const sorted = [...allNews]
-    .sort((a, b) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime())
-    .slice(0, 5);
+    let filtered = [...allNews];
 
-  res.json({ total: sorted.length, data: sorted });
-};
+    if (search && typeof search === 'string') {
+      const keyword = search.toLowerCase();
+      filtered = filtered.filter(
+        (news) =>
+          news.title.toLowerCase().includes(keyword) ||
+          news.content.toLowerCase().includes(keyword)
+      );
+    }
 
-// GET /news/technology — filter by category name "ธุรกิจไอที", limited to 5
-export const getTechnologyNews = (_req: Request, res: Response) => {
-  const filtered = allNews
-    .filter(news => news.category.some(cat => cat.name === 'ธุรกิจไอที'))
-    .slice(0, 5);
+    if (categoryId && typeof categoryId === 'string') {
+      filtered = filtered.filter((news) =>
+        news.category.some((cat) => cat.id === categoryId)
+      );
+    }
 
-  res.json({ total: filtered.length, data: filtered });
+    filtered.sort(
+      (a, b) =>
+        new Date(b.created_at).getTime() - new Date(a.created_at).getTime()
+    );
+
+    const limitNum = limit ? parseInt(limit as string) : undefined;
+    const limited = limitNum ? filtered.slice(0, limitNum) : filtered;
+
+    successResponse(res, limited, 'News fetched successfully');
+  } catch (error) {
+    internalServerErrorResponse(res, error);
+  }
 };

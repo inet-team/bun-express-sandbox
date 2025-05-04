@@ -11,6 +11,7 @@ A high-performance API simulation environment built with Bun, Express, and TypeS
 
 ```
 bun-express-sandbox/
+├── _docs/                         # Internal documentation
 ├── src/
 │   ├── configs/
 │   │   └── env.config.ts          # Application config (e.g., port)
@@ -20,6 +21,8 @@ bun-express-sandbox/
 │   │   └── news.model.ts          # Type definitions for news items
 │   ├── routes/
 │   │   └── index.ts               # Centralized API route definitions with /api/v1 prefix
+│   ├── utils/
+│   │   └── response.ts            # Reusable helper for formatting HTTP responses
 │   └── index.ts                   # Entry point of the Express app
 │
 ├── .dockerignore                  # Files and folders to ignore in Docker build
