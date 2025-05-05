@@ -2,18 +2,12 @@
 
 import type { Response } from 'express';
 
-interface ApiResponse<T> {
-  status: number;
-  message: string;
-  data?: T;
-}
-
-export const successResponse = <T>(
+export const successResponse = (
   res: Response,
-  data: T,
+  data: any,
   message = 'Success',
   status = 200
-): Response<ApiResponse<T>> => {
+): any => {
   return res.status(status).json({
     status,
     message,
@@ -24,7 +18,7 @@ export const successResponse = <T>(
 export const internalServerErrorResponse = (
   res: Response,
   error: unknown
-): Response<ApiResponse<null>> => {
+): any => {
   console.error(error);
   return res.status(500).json({
     status: 500,
