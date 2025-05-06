@@ -11,11 +11,10 @@ import {
 const allNews = newsData as NewsItem[];
 
 // GET /news
-// Supports ?search, ?categoryId, ?limit, ?page
-// Sorted by created_at descending
+// Supports ?search, ?categoryId, ?limit, ?page, ?sort=asc|desc
 export const getNews = async (req: Request, res: Response): Promise<void> => {
   try {
-    const { search, categoryId, limit, page } = req.query;
+    const { search, categoryId, limit, page, sort } = req.query;
 
     let filtered = [...allNews];
 
@@ -36,34 +35,38 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
       );
     }
 
-    // Sort by created_at descending
-    filtered.sort(
-      (a, b) =>
-        new Date(b.created_at).getTime() - new Date(a.created_at).getTime()
-    );
+    // Sorting
+    const isAsc = sort === 'asc';
+    filtered.sort((a, b) => {
+      const aTime = new Date(a.created_at).getTime();
+      const bTime = new Date(b.created_at).getTime();
+      return isAsc ? aTime - bTime : bTime - aTime;
+    });
 
+    // Default result = all
     let result = filtered;
+    const data: Record<string, any> = {};
 
-    // Apply pagination only if both limit and page are provided
+    // Apply pagination if limit & page exist
     if (typeof limit === 'string' && typeof page === 'string') {
       const limitNum = parseInt(limit, 10);
       const pageNum = parseInt(page, 10);
       const startIndex = (pageNum - 1) * limitNum;
       const endIndex = startIndex + limitNum;
-      result = filtered.slice(startIndex, endIndex);
 
-      return successResponse(res, {
-        items: result,
-        pagination: {
-          totalItems: filtered.length,
-          totalPages: Math.ceil(filtered.length / limitNum),
-          currentPage: pageNum,
-          pageSize: limitNum,
-        },
-      }, 'News fetched with pagination');
+      result = filtered.slice(startIndex, endIndex);
+      data.pagination = {
+        total_items: filtered.length,
+        total_pages: Math.ceil(filtered.length / limitNum),
+        current_page: pageNum,
+        page_size: limitNum,
+      };
     }
 
-    successResponse(res, result, 'News fetched successfully');
+    // Always use `data.items`
+    data.items = result;
+
+    successResponse(res, data, 'News fetched successfully');
   } catch (error) {
     internalServerErrorResponse(res, error);
   }
