@@ -63,10 +63,11 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
       };
     }
 
-    // Always use `data.items`
-    data.items = result;
-
-    successResponse(res, data, 'News fetched successfully');
+    successResponse(res, {
+      message: 'News fetched successfully',
+      data: result,
+      pagination: data.pagination || [],
+    });
   } catch (error) {
     internalServerErrorResponse(res, error);
   }

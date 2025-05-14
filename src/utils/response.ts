@@ -2,16 +2,22 @@
 
 import type { Response } from 'express';
 
+interface SuccessResponseData {
+  message: string;
+  data: any;
+  status?: number;
+  [key: string]: any;
+}
+
 export const successResponse = (
   res: Response,
-  data: any,
-  message = 'Success',
-  status = 200
+  { message, data, status = 200, ...otherFields }: SuccessResponseData
 ): any => {
   return res.status(status).json({
     status,
     message,
     data,
+    ...otherFields,
   });
 };
 
