@@ -5,7 +5,7 @@ export type ContentType = 'ไทย' | 'ต่างประเทศ';
 export interface NewsThumbnail {
   type: string;
   url: string;
-  ratio: string;
+  alt: string;
 }
 
 // Fixed list of categories with known id-name mapping
