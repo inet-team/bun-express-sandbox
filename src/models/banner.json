@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "desktop_image_url": "https://example.com/desktop-banner.jpg",
+    "mobile_image_url": "https://example.com/mobile-banner.jpg",
+    "page_status": {
+      "home": true,
+      "media": false,
+      "news": true,
+      "infographic": false
+    },
+    "link_url": "https://www.example.com/sale",
+    "created_at": "2023-08-01T00:00:00Z",
+    "updated_at": "2023-08-01T00:00:00Z"
+  },
+  {
+    "id": "2",
+    "desktop_image_url": "https://example.com/desktop-banner2.jpg",
+    "mobile_image_url": "https://example.com/mobile-banner2.jpg",
+    "page_status": {
+      "home": true,
+      "media": true,
+      "news": false,
+      "infographic": true
+    },
+    "link_url": "",
+    "created_at": "2023-08-01T00:00:00Z",
+    "updated_at": "2023-08-01T00:00:00Z"
+  }
+]

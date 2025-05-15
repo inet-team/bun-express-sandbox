@@ -72,3 +72,30 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
     internalServerErrorResponse(res, error);
   }
 };
+
+// GET /news/:id
+export const getNewsById = async (
+  req: Request,
+  res: Response
+): Promise<void> => {
+  try {
+    const { id } = req.params;
+
+    // Find the news item by ID
+    const newsItem = allNews.find((news) => news.id === id);
+
+    if (!newsItem) {
+      res.status(404).json({
+        message: 'News not found',
+      });
+      return;
+    }
+
+    successResponse(res, {
+      message: 'News fetched successfully',
+      data: newsItem,
+    });
+  } catch (error) {
+    internalServerErrorResponse(res, error);
+  }
+};
