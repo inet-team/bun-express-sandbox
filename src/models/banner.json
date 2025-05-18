@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": "demo66c29b01",
     "desktop_image_url": "https://example.com/desktop-banner.jpg",
     "mobile_image_url": "https://example.com/mobile-banner.jpg",
     "page_status": {
@@ -14,7 +14,7 @@
     "updated_at": "2023-08-01T00:00:00Z"
   },
   {
-    "id": "2",
+    "id": "demo66c29b02",
     "desktop_image_url": "https://example.com/desktop-banner2.jpg",
     "mobile_image_url": "https://example.com/mobile-banner2.jpg",
     "page_status": {

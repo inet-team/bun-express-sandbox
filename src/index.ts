@@ -12,11 +12,6 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Root route
-app.get('/', (_req: Request, res: Response) => {
-  res.send('API is running.');
-});
-
 // Routes
 app.use(routes);
 

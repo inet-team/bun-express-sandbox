@@ -10,10 +10,10 @@ export interface NewsThumbnail {
 
 // Fixed list of categories with known id-name mapping
 export type NewsCategory =
-  | { id: '66c2e7532d6c26752e5baa01'; name: 'การแพทย์' }
-  | { id: '66c2e7532d6c26752e5baa02'; name: 'เศรษฐกิจ - การลงทุน' }
-  | { id: '66c2e7532d6c26752e5baa03'; name: 'สังคม' }
-  | { id: '66c2e7532d6c26752e5baa04'; name: 'ธุรกิจไอที' };
+  | { id: 'demo66c11b01'; name: 'การแพทย์' }
+  | { id: 'demo66c11b02'; name: 'เศรษฐกิจ - การลงทุน' }
+  | { id: 'demo66c11b03'; name: 'สังคม' }
+  | { id: 'demo66c11b04'; name: 'ธุรกิจไอที' };
 
 export interface NewsItem {
   id: string;
@@ -21,11 +21,11 @@ export interface NewsItem {
   abstract: string;
   content: string;
   content_type: ContentType;
-  status: string;
+  action: 'on' | 'off';
   tag: string[];
   thumbnail: NewsThumbnail;
-  created_at: string;
-  updated_at: string;
   category: NewsCategory[];
   page_view: number;
+  created_at: string;
+  updated_at: string;
 }

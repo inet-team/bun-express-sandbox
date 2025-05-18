@@ -1,0 +1,46 @@
+[
+  {
+    "id": "demo66c29b01",
+    "title": "เปิดตัว AI จีน Zhipu อย่างเป็นทางการ",
+    "content": "<p>Zhipu AI ได้เปิดตัวโมเดลใหม่ที่พัฒนาขึ้นในประเทศจีน...</p>",
+    "video_url": "https://example.com/video/zhipu.mp4",
+    "thumbnail": {
+      "type": "jpg",
+      "url": "https://example.com/thumb/zhipu.jpg",
+      "alt": "Zhipu AI"
+    },
+    "category": [
+      {
+        "id": "demo66c12m01",
+        "name": "Short VDO"
+      }
+    ],
+    "tag": ["AI", "จีน", "เทคโนโลยี"],
+    "action": "on",
+    "page_view": 1234,
+    "created_at": "2024-05-01T10:00:00.000Z",
+    "updated_at": "2024-05-02T10:00:00.000Z"
+  },
+  {
+    "id": "demo66c29b02",
+    "title": "อนาคตของสุขภาพและชีวิตคุณภาพ",
+    "content": "<p>การดูแลสุขภาพในยุคดิจิทัลจะเปลี่ยนชีวิตของเรายังไง?</p>",
+    "video_url": "https://example.com/video/health.mp4",
+    "thumbnail": {
+      "type": "jpg",
+      "url": "https://example.com/thumb/health.jpg",
+      "alt": "สุขภาพ"
+    },
+    "category": [
+      {
+        "id": "demo66c12m05",
+        "name": "Quality of Life"
+      }
+    ],
+    "tag": ["สุขภาพ", "คุณภาพชีวิต", "อนาคต"],
+    "action": "off",
+    "page_view": 823,
+    "created_at": "2024-05-10T14:30:00.000Z",
+    "updated_at": "2024-05-10T16:45:00.000Z"
+  }
+]
