@@ -3,7 +3,7 @@
 import { Router } from 'express';
 import { getBanners } from '../controllers/banner.controller';
 import { getNews, getNewsById } from '../controllers/news.controller';
-import { getMedia } from '../controllers/media.controller';
+import { getMedia, getMediaById } from '../controllers/media.controller';
 
 const v1Router = Router();
 const rootRouter = Router();
@@ -18,6 +18,7 @@ v1Router.get('/banners', getBanners);
 v1Router.get('/news', getNews);
 v1Router.get('/news/:id', getNewsById);
 v1Router.get('/media', getMedia);
+v1Router.get('/media/:id', getMediaById);
 
 rootRouter.use('/api/v1', v1Router);
 

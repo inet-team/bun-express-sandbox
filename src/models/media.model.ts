@@ -22,8 +22,8 @@ export interface MediaItem {
   thumbnail: MediaThumbnail;
   category: MediaCategory[];
   tag: string[];
-  action: 'on' | 'off';
   page_view: number;
+  action: 'on' | 'off';
   created_at: string;
   updated_at: string;
 }

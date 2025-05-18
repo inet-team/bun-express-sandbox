@@ -2,7 +2,10 @@
 
 import type { Request, Response } from 'express';
 import infographicData from '../models/infographic.json';
-import { successResponse, internalServerErrorResponse } from '../utils/response';
+import {
+  successResponse,
+  internalServerErrorResponse,
+} from '../utils/response';
 
 // GET /infographics
 // Supports ?limit

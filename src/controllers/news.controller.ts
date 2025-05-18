@@ -11,10 +11,10 @@ import {
 const allNews = newsData as NewsItem[];
 
 // GET /news
-// Supports ?search, ?categoryId, ?limit, ?page, ?sort=asc|desc
+// Supports ?search, ?category, ?limit, ?page, ?sort=asc|desc
 export const getNews = async (req: Request, res: Response): Promise<void> => {
   try {
-    const { search, categoryId, limit, page, sort } = req.query;
+    const { search, category, limit, page, sort } = req.query;
 
     let filtered = [...allNews];
 
@@ -29,9 +29,9 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
     }
 
     // Apply category filter
-    if (typeof categoryId === 'string') {
+    if (typeof category === 'string') {
       filtered = filtered.filter((news) =>
-        news.category.some((cat) => cat.id === categoryId)
+        news.category.some((cat) => cat.id === category)
       );
     }
 

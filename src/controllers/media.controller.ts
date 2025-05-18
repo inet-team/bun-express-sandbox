@@ -1,11 +1,13 @@
-// src/controllers/media.controller.ts
-
 import type { Request, Response } from 'express';
 import type { MediaItem } from '../models/media.model';
 import mediaData from '../models/media.json';
+import {
+  successResponse,
+  internalServerErrorResponse,
+} from '../utils/response';
 
 // GET /media
-// Supports ?category=m001 | m002 | ...
+// Supports ?category
 export const getMedia = (req: Request, res: Response): void => {
   try {
     const { category } = req.query;
@@ -18,9 +20,26 @@ export const getMedia = (req: Request, res: Response): void => {
       );
     }
 
-    res.status(200).json(filtered);
+    successResponse(res, {
+      message: 'Media fetched successfully',
+      data: filtered,
+    });
   } catch (error) {
-    console.error(error);
-    res.status(500).json({ message: 'Failed to fetch media' });
+    internalServerErrorResponse(res, error);
+  }
+};
+
+// GET /media/:id
+export const getMediaById = (req: Request, res: Response): void => {
+  try {
+    const { id } = req.params;
+    const item = (mediaData as MediaItem[]).find((m) => m.id === id);
+
+    successResponse(res, {
+      message: 'Media item fetched successfully',
+      data: item,
+    });
+  } catch (error) {
+    internalServerErrorResponse(res, error);
   }
 };

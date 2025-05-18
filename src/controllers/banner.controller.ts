@@ -2,20 +2,28 @@
 
 import type { Request, Response } from 'express';
 import banners from '../models/banner.json';
+import {
+  successResponse,
+  internalServerErrorResponse,
+} from '../utils/response';
 
 // GET /banners
-// Supports ?page
-export const getBanners = async (req: Request, res: Response): Promise<void> => {
-  const page = req.query.page as string;
+// Supports ?visible_page=home
+export const getBanners = async (req: Request, res: Response): Promise<any> => {
+  try {
+    const visible_page = req.query.visible_page as string;
 
-  if (!page) {
-    res.status(400).json({ error: 'Missing page query' });
-    return;
+    const filtered = banners.filter(
+      (banner: any) =>
+        banner.action === 'on' &&
+        (visible_page ? banner.visible_on_pages?.[visible_page] === true : true)
+    );
+
+    return successResponse(res, {
+      message: 'Banners fetched successfully',
+      data: filtered,
+    });
+  } catch (error) {
+    return internalServerErrorResponse(res, error);
   }
-
-  const filtered = banners.filter(
-    (banner: any) => banner.page_status?.[page] === true
-  );
-
-  res.json(filtered);
 };

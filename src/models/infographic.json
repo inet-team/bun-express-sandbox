@@ -7,8 +7,12 @@
       "url": "https://dummyimage.com/600x800/111/fff&text=Info+1",
       "alt": "Infographic 1"
     },
-    "action": "on",
     "tag": ["Traffy", "แผ่นดินไหว"],
+    "category": {
+      "id": "demo66c11b03",
+      "name": "สังคม"
+    },
+    "action": "on",
     "created_at": "2024-04-09T12:00:00Z",
     "updated_at": "2024-04-09T12:00:00Z"
   }

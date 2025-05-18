@@ -21,11 +21,11 @@ export interface NewsItem {
   abstract: string;
   content: string;
   content_type: ContentType;
-  action: 'on' | 'off';
   tag: string[];
   thumbnail: NewsThumbnail;
   category: NewsCategory[];
   page_view: number;
+  action: 'on' | 'off';
   created_at: string;
   updated_at: string;
 }
