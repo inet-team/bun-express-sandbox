@@ -7,49 +7,33 @@ A high-performance API simulation environment built with Bun, Express, and TypeS
 - [Anjasfedo/bun-express GitHub Repository](https://github.com/Anjasfedo/bun-express)
 
 
-## API Routes
+## API Documentation
 
-### GET - Banners
+### Banners Routes
 
-**/api/v1/banners**
-- Get all banners
+* `GET /api/v1/banners` → Retrieve all active banners.
+* `GET /api/v1/banners?visible_page=home` → Retrieve banners visible on the specified frontend page (`home`, `media`, `news`, `infographic`).
 
-**/api/v1/banners?visible_page=home**
-  Filter banners that are shown on the specified frontend page
+### News Routes
 
-### GET - News
+* `GET /api/v1/news` → Retrieve all news items.
+* `GET /api/v1/news?search=keyword` → Search news by keyword in title or content.
+* `GET /api/v1/news?category=demo66c11b03` → Filter news by category ID (e.g., `'demo66c11b03'` for 'สังคม').
+* `GET /api/v1/news?limit=10&page=2` → Paginate results: 10 items per page, page 2.
+* `GET /api/v1/news?sort=asc` → Sort news by `created_at` in ascending order.
+* `GET /api/v1/news/:id` → Retrieve a single news item by its ID.
 
-**/api/v1/news**
-- Get all news items
+### Media Routes
 
-**/api/v1/news?search=keyword**
-- Filter news by keyword in title or content
+* `GET /api/v1/media` → Retrieve all media items.
+* `GET /api/v1/media?category=demo66c12m01` → Filter media by category ID (e.g., `'demo66c12m01'` for 'Short VDO').
+* `GET /api/v1/media/:id` → Retrieve a single media item by its ID.
 
-**/api/v1/news?category=demo66c11b03**
-- Filter news by category name 'สังคม'
+### Infographics Routes
 
-**/api/v1/news?limit=10&page=2**
-- Paginate results: 10 items per page, page 2
-
-**/api/v1/news?sort=asc**
-- Sort news by `created_at` ascending (oldest first)
-
-**/api/v1/news?search=tech&category=demo66c11b01&limit=5&page=1&sort=desc**
-- Combine filters, pagination, and sorting
-
-**/api/v1/news/:id**
-- Get a single news item by ID
-
-### GET - Media
-
-**/api/v1/media**
-- Get all media
-
-**/api/v1/media?category=demo66c12m01**
-- Filter media by category name 'Short VDO'
-
-**/api/v1/media/:id`**
--  Get a single media item by ID
+* `GET /api/v1/infographics` → Retrieve all infographic items.
+* `GET /api/v1/infographics?category=demo66c11b03` → Filter infographics by category ID.
+* `GET /api/v1/infographics/:id` → Retrieve a single infographic item by its ID.
 
 
 ## Project Structure
