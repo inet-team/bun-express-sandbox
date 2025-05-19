@@ -20,7 +20,7 @@ A high-performance API simulation environment built with Bun, Express, and TypeS
 * `GET /api/v1/news?search=keyword` → Search news by keyword in title or content.
 * `GET /api/v1/news?category=demo66c11b03` → Filter news by category ID (e.g., `'demo66c11b03'` for 'สังคม').
 * `GET /api/v1/news?limit=10&page=2` → Paginate results: 10 items per page, page 2.
-* `GET /api/v1/news?sort=asc` → Sort news by `created_at` in ascending order.
+* `GET /api/v1/news?sort=newest` → Sort news by `created_at` (newest or oldest first).
 * `GET /api/v1/news/:id` → Retrieve a single news item by its ID.
 
 ### Media Routes

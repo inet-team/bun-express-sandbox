@@ -11,7 +11,7 @@ import {
 const allNews = newsData as NewsItem[];
 
 // GET /news
-// Supports ?search, ?category, ?limit, ?page, ?sort=asc|desc
+// Supports ?search, ?category, ?limit, ?page, ?sort=newest|oldest
 export const getNews = async (req: Request, res: Response): Promise<void> => {
   try {
     const { search, category, limit, page, sort } = req.query;
@@ -36,11 +36,11 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
     }
 
     // Sorting
-    const isAsc = sort === 'asc';
+    const isOldest = sort === 'oldest';
     filtered.sort((a, b) => {
       const aTime = new Date(a.created_at).getTime();
       const bTime = new Date(b.created_at).getTime();
-      return isAsc ? aTime - bTime : bTime - aTime;
+      return isOldest ? aTime - bTime : bTime - aTime;
     });
 
     // Default result = all
