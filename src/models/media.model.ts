@@ -12,7 +12,8 @@ export type MediaCategory =
   | { id: 'demo66c12m02'; name: 'The next move' }
   | { id: 'demo66c12m03'; name: 'The next move (Talk)' }
   | { id: 'demo66c12m04'; name: 'Vision in Action' }
-  | { id: 'demo66c12m05'; name: 'Quality of Life' };
+  | { id: 'demo66c12m05'; name: 'Tech of Time' }
+  | { id: 'demo66c12m06'; name: 'Quality of Life' };
 
 export interface MediaItem {
   id: string;
@@ -21,7 +22,7 @@ export interface MediaItem {
   video_url: string;
   thumbnail: MediaThumbnail;
   category: MediaCategory[];
-  tag: string[];
+  tags: string[];
   page_view: number;
   action: 'on' | 'off';
   created_at: string;
