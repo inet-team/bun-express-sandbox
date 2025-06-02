@@ -11,14 +11,19 @@ import {
 const allNews = newsData as NewsItem[];
 
 // GET /news
-// Supports ?search, ?category, ?limit, ?page, ?sort=newest|oldest
+// Supports:
+// - ?search=keyword               → filter by title or content
+// - ?category=category_id         → filter by category id (e.g., demo66c11b01)
+// - ?type=ไทย|ต่างประเทศ           → filter by content type
+// - ?sort=newest|oldest           → sort by created_at date
+// - ?limit=number&page=number     → pagination
 export const getNews = async (req: Request, res: Response): Promise<void> => {
   try {
-    const { search, category, limit, page, sort } = req.query;
+    const { search, category, limit, page, sort, type } = req.query;
 
     let filtered = [...allNews];
 
-    // Apply search filter
+    // Search filter
     if (typeof search === 'string') {
       const keyword = search.toLowerCase();
       filtered = filtered.filter(
@@ -28,14 +33,19 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
       );
     }
 
-    // Apply category filter
+    // Category filter
     if (typeof category === 'string') {
       filtered = filtered.filter((news) =>
         news.category.some((cat) => cat.id === category)
       );
     }
 
-    // Sorting
+    // ContentType filter
+    if (type === 'ไทย' || type === 'ต่างประเทศ') {
+      filtered = filtered.filter((news) => news.content_type === type);
+    }
+
+    // Sort
     const isOldest = sort === 'oldest';
     filtered.sort((a, b) => {
       const aTime = new Date(a.created_at).getTime();
@@ -43,11 +53,9 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
       return isOldest ? aTime - bTime : bTime - aTime;
     });
 
-    // Default result = all
+    // Pagination
     let result = filtered;
     const data: Record<string, any> = {};
-
-    // Apply pagination if limit & page exist
     if (typeof limit === 'string' && typeof page === 'string') {
       const limitNum = parseInt(limit, 10);
       const pageNum = parseInt(page, 10);
