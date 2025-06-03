@@ -11,7 +11,7 @@ export interface NewsThumbnail {
 // Fixed list of categories with known id-name mapping
 export type NewsCategory =
   | { id: 'demo66c11b01'; slug: 'sustainability'; name: 'ความยั่งยืน' }
-  | { id: 'demo66c11b02'; slug: 'healthcare'; name: 'การแพทย์' }
+  | { id: 'demo66c11b02'; slug: 'medical'; name: 'การแพทย์' }
   | { id: 'demo66c11b03'; slug: 'economy-investment'; name: 'เศรษฐกิจ - การลงทุน' }
   | { id: 'demo66c11b04'; slug: 'social'; name: 'สังคม' }
   | { id: 'demo66c11b05'; slug: 'it-business'; name: 'ธุรกิจไอที' };
