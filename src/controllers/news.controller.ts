@@ -13,7 +13,7 @@ const allNews = newsData as NewsItem[];
 // GET /news
 // Supports:
 // - ?search=keyword               → filter by title or content
-// - ?category=category_id         → filter by category id (e.g., demo66c11b01)
+// - ?category=category_slug       → filter by category slug (e.g., it-business)
 // - ?type=ไทย|ต่างประเทศ           → filter by content type
 // - ?sort=newest|oldest           → sort by created_at date
 // - ?limit=number&page=number     → pagination
@@ -33,10 +33,10 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
       );
     }
 
-    // Category filter
+    // Category filter by slug
     if (typeof category === 'string') {
       filtered = filtered.filter((news) =>
-        news.category.some((cat) => cat.id === category)
+        news.category.some((cat) => cat.slug === category)
       );
     }
 
@@ -82,15 +82,15 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
 };
 
 // GET /news/:id
-export const getNewsById = async (
+export const getNewsByPublicId = async (
   req: Request,
   res: Response
 ): Promise<void> => {
   try {
     const { id } = req.params;
 
-    // Find the news item by ID
-    const newsItem = allNews.find((news) => news.id === id);
+    // Find the news item by public_id
+    const newsItem = allNews.find((news) => news.public_id === id);
 
     if (!newsItem) {
       res.status(404).json({

@@ -2,7 +2,7 @@
 
 import { Router } from 'express';
 import { getBanners } from '../controllers/banner.controller';
-import { getNews, getNewsById } from '../controllers/news.controller';
+import { getNews, getNewsByPublicId } from '../controllers/news.controller';
 import { getMedia, getMediaById } from '../controllers/media.controller';
 
 const v1Router = Router();
@@ -16,7 +16,7 @@ rootRouter.get('/', (_req, res) => {
 // v1 routes
 v1Router.get('/banners', getBanners);
 v1Router.get('/news', getNews);
-v1Router.get('/news/:id', getNewsById);
+v1Router.get('/news/:id', getNewsByPublicId);
 v1Router.get('/media', getMedia);
 v1Router.get('/media/:id', getMediaById);
 
