@@ -25,13 +25,19 @@ A high-performance API simulation environment built with Bun, Express, and TypeS
 * `GET /api/v1/news/:id` → Retrieve a single news item by its public ID.
 
 Combine multiple query parameters to refine search:
-* `GET /api/v1/news?search=AI&category=it-business&type=ไทย&sort=oldest&limit=5&page=1`
+* `GET /api/v1/news?search=test&category=it-business&type=ไทย&sort=oldest&limit=5&page=1`
 
 ### Media Routes
 
 * `GET /api/v1/media` → Retrieve all media items.
-* `GET /api/v1/media?category=demo66c12m01` → Filter media by category ID (e.g., `'demo66c12m01'` for 'Short VDO').
-* `GET /api/v1/media/:id` → Retrieve a single media item by its ID.
+* `GET /api/v1/media?search=keyword` → Search media by keyword in title or content.
+* `GET /api/v1/media?category=tech-of-time` → Filter media by category slug (e.g., `'tech-of-time'` for 'Tech of Time').
+* `GET /api/v1/media?limit=10&page=2` → Paginate results: 10 items per page, page 2.
+* `GET /api/v1/media?sort=newest` → Sort media by `created_at` (newest or oldest first).
+* `GET /api/v1/media/:id` → Retrieve a single media item by its public ID.
+
+Combine multiple query parameters to refine search:
+* `GET /api/v1/media?search=test&category=tech-of-time&sort=oldest&limit=5&page=1`
 
 ### Infographics Routes
 
