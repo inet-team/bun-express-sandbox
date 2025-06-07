@@ -21,7 +21,8 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
     const allNews = newsData.map((news: any) => {
       const thumbnail = news.thumbnail
         ? {
-            url: `${BASE_IMAGE_URL}${news.thumbnail.path}`,
+            // url: `${BASE_IMAGE_URL}${news.thumbnail.path}`
+            url: `http://128.199.202.159/temp_uploads/tmm/news/demo66c29b20.webp`,
             alt: news.thumbnail.alt,
           }
         : null;
@@ -108,7 +109,8 @@ export const getNewsByPublicId = async (req: Request, res: Response): Promise<vo
 
     const thumbnail = news.thumbnail
       ? {
-          url: `${BASE_IMAGE_URL}${news.thumbnail.path}`,
+          // url: `${BASE_IMAGE_URL}${news.thumbnail.path}`,
+          url: `http://128.199.202.159/temp_uploads/tmm/news/demo66c29b20.webp`,
           alt: news.thumbnail.alt,
         }
       : null;

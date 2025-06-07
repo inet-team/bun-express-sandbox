@@ -22,7 +22,8 @@ export const getMedia = async (req: Request, res: Response): Promise<void> => {
       ...item,
       thumbnail: item.thumbnail
         ? {
-            url: `${BASE_IMAGE_URL}${item.thumbnail.path}`,
+            // url: `${BASE_IMAGE_URL}${item.thumbnail.path}`,
+            url: `http://128.199.202.159/temp_uploads/tmm/news/demo66c29b21.webp`,
             alt: item.thumbnail.alt,
           }
         : null,
@@ -97,7 +98,8 @@ export const getMediaByPublicId = async (req: Request, res: Response): Promise<v
 
     const thumbnail = media.thumbnail
       ? {
-          url: `${BASE_IMAGE_URL}${media.thumbnail.path}`,
+          // url: `${BASE_IMAGE_URL}${media.thumbnail.path}`,
+          url: `http://128.199.202.159/temp_uploads/tmm/news/demo66c29b21.webp`,
           alt: media.thumbnail.alt,
         }
       : null;
