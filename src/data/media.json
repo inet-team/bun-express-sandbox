@@ -1,21 +1,18 @@
 [
   {
-    "id": "68301a5f1ea060c985dffc30",
+    "id": "250739",
     "public_id": "250739",
     "title": "“โอวา” กะเทยขายข้าว ผู้ใช้เทคโนโลยีเปลี่ยนชีวิต พลิกเกมเกษตรกรไทย",
     "content": "”ผู้บริโภคอยู่ตรงไหน เราควรเอาตัวเองไปอยู่ตรงนั้น”<br>.<br>“โอวา” กะเทยขายข้าว<br>ผู้ใช้เทคโนโลยีเปลี่ยนชีวิต พลิกเกมเกษตรกรไทย<br>.<br>วันนี้ Tech Movement พาทุกคนไปรู้จักกับ คุณโอวา เจ้าของเพจ โอวาข้าวหอมมะลิแท้สุรินทร์100% หรือที่หลายคนรู้จักในชื่อ “โอวา กะเทยขายข้าว” ผู้ที่นำเทคโนโลยีมาพลิกชีวิตตัวเองในยุค 4.0<br>.<br>จนสามารถกวาดรายได้จากช่องทางออนไลน์ ในช่วง Easy E-Receipt ที่ผ่านมากว่า หลักแสน! ภายใน 1 เดือน<br>.<br>ความสำเร็จนี้คุณโอวาทำได้อย่างไร?<br>ติดตามได้ใน Quality of Life Ep.นี้",
     "video_url": "https://youtu.be/YBV7owdNYR0?si=hPti0mT2UF8bPO6O",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "250739.webp",
+      "alt": "quality_of_life_2.webp"
     },
     "category": {
-      "id": "6830188844c6ab8dafe71469",
-      "name": "Quality of Life",
       "slug": "quality-of-life",
+      "name": "Quality of Life",
       "category_type": "media"
     },
     "tags": [
@@ -34,123 +31,19 @@
     "updated_at": "2025-05-23T06:49:03.353Z"
   },
   {
-    "id": "68301b4d1ea060c985dffc31",
-    "public_id": "215864",
-    "title": "เกมธุรกิจ ต้องมองเพื่อนเป็น “คู่ค้า” ไม่ใช่แค่ “ลูกค้า” Vision In Action Ep.6",
-    "content": "เกมธุรกิจ ต้องมองเพื่อนเป็น “คู่ค้า” ไม่ใช่แค่ “ลูกค้า”<br>.<br>Tech Movement จะมาพูดคุยกับ คุณธนา วาสุเทพรังสรรค์ กรรมการผู้จัดการ<br>บริษัท ธันวสุ บิสซิเนส คอนซัลติ้ง ซิสเต็มส์ จำกัด<br>.<br>จากนักพัฒนาซอฟต์แวร์ที่สร้างระบบ POS เพื่อใช้เองในร้านไอศกรีม สู่เจ้าของ POS<br>ที่ให้บริการธุรกิจกว่า 1,000 ราย!<br>.<br>พร้อมเผยมุมมองการทำธุรกิจผ่านแนวคิด “เพื่อน = คู่ค้า” ที่จะเปลี่ยนวิธีคิดในการสร้างความสัมพันธ์กับลูกค้า ติดตามได้ใน Vision in action EP. นี้!",
-    "video_url": "https://youtu.be/XWLLabPdVRc?si=sEIztJTt77iMyF-8",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830188344c6ab8dafe71468",
-      "name": "Vision in Action",
-      "slug": "vision-in-action",
-      "category_type": "media"
-    },
-    "tags": [
-      "POS",
-      "ร้านอาหาร",
-      "thailand",
-      "software",
-      "Localtech",
-      "Techmovement",
-      "MoveForBetterTH",
-      "VisioInaction",
-      "DigitalMovewithTechMovement"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-23T06:53:01.963Z",
-    "updated_at": "2025-05-23T06:53:01.963Z"
-  },
-  {
-    "id": "68301baf1ea060c985dffc32",
-    "public_id": "398176",
-    "title": "ก้าวสู่ความสำเร็จ! สพฉ. องค์กรแห่งการช่วยชีวิต The Next Move (Talk) Ep.4",
-    "content": "ก้าวสู่ความสำเร็จ! สพฉ. องค์กรแห่งการช่วยชีวิต<br>ระบบ idEMS พร้อมใช้งานจริงทั่วประเทศแล้ว<br>วันนี้ Tech Movement จะพาทุกท่านอัปเดตความก้าวหน้าของระบบการแพทย์ฉุกเฉินไทย ที่กำลังเข้าสู่ยุคใหม่อย่างเต็มรูปแบบ 🇹🇭<br>การพัฒนาครั้งนี้มีอะไรเปลี่ยนแปลงไปบ้าง?<br>ติดตามได้ใน The Next Move (Talk) x สถาบันการแพทย์ฉุกเฉินแห่งชาติ Ep.4!",
-    "video_url": "https://youtu.be/_vN_SKU25l8?si=UBHK1Am9R9mApEbV",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830187f44c6ab8dafe71467",
-      "name": "The Next Move(talk)",
-      "slug": "the-next-move-talk",
-      "category_type": "media"
-    },
-    "tags": [
-      "สถาบันการแพทย์ฉุกเฉินแห่งชาติ",
-      "idEMS",
-      "EMSFORLIFESAVING",
-      "TheNextMove",
-      "Localtech",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-23T06:54:39.525Z",
-    "updated_at": "2025-05-23T06:54:39.525Z"
-  },
-  {
-    "id": "68301be61ea060c985dffc33",
-    "public_id": "928105",
-    "title": "ไทยมีแล้ว! AI Speech-to-Text เปลี่ยนคำพูดเป็นข้อมูลทางการแพทย์ The Next Move Ep.11",
-    "content": "ไทยมีแล้ว! AI Speech-to-Text เปลี่ยนคำพูดเป็นข้อมูลทางการแพทย์<br>.<br>เมื่อ AI กลายเป็นส่วนหนึ่งของชีวิตประจำวัน สาธารณสุขจึงนำเทคโนโลยีนี้มาปรับใช้ เพื่อยกระดับคุณภาพชีวิตของคนไทย<br>.<br>แต่ AI Speech-to-Text ช่วยแพทย์ประมวลอาการผู้ป่วยได้อย่างไร? และจะเปลี่ยนแปลงวงการแพทย์ไปในทิศทางไหน?<br>ติดตามได้ใน The Next Move Episode นี้!",
-    "video_url": "https://youtu.be/8DrlWpfqFA0?si=NNDp0ffTYuxVXuhO",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "AI",
-      "Healthtech",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "Thenextmove"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:58:30.832Z",
-    "updated_at": "2025-05-28T07:58:30.832Z"
-  },
-  {
-    "id": "68369c7bb4ccfcf5cdc16c2d",
+    "id": "819462",
     "public_id": "819462",
     "title": "Health Rider เทคโนโลยียกระดับคุณภาพชีวิต จากโครงการ 30 บาท รักษาทุกที่",
     "content": "📌ทุกคนมีสิทธิพื้นฐานในการเข้าถึงหลักประกันสุขภาพที่มีมาตรฐานและความเป็นอยู่ที่ดี อย่างทั่วถึงและเท่าเทียมกัน<br>.<br>การทำ Digital Transformation ด้านระบบสุขภาพ จะสร้างความเท่าเทียมและช่วยเพิ่มการเข้าถึงบริการด้านสุขภาพ เพื่อให้ประชาชนคนไทยมีสุขภาวะที่ดี และนำไปสู่การพัฒนาประเทศที่ยั่งยืน<br>.<br>“Health Rider” บริการส่งยาให้ผู้ป่วยที่บ้าน เป็นโครงการที่ช่วยยกระดับ 30 บาท รักษาทุกที่ โดยจัดส่งยาและเวชภัณฑ์จำเป็นให้กับผู้ป่วยถึงบ้านโดยไม่เสียค่าใช้จ่าย เพิ่มความสะดวกให้ทั้งผู้ป่วยและญาติ ไม่ต้องเดินทางมารับยาถึงโรงพยาบาล หรือไปรับที่ร้านยา เพื่อให้ประชาชนเข้าถึงบริการสุขภาพอย่างครอบคลุม สะดวก และรวดเร็วยิ่งขึ้น ด้วยบัตรประชาชนเพียงใบเดียว<br>.<br>Tech Movement จะพามาฟังเสียงของประชาชนที่มีต่อโครงการนี้กันค่ะ🥰<br>.<br>✨ขอขอบคุณ โรงพยาบาลนครนายก สังกัดกระทรวงสาธารณสุข ทีม Health Rider และคุณลุงชาตรีคุณป้านำ ที่มาถ่ายทอดความรู้สึกดีๆ ต่อโครงการ Health Rider นะคะ🥰",
     "video_url": "https://youtu.be/RZ29HMWvFfg?si=nHqxLOqoA_qPwEf9",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "819462.webp",
+      "alt": "Quality_of_life_1.webp"
     },
     "category": {
-      "id": "6830188844c6ab8dafe71469",
-      "name": "Quality of Life",
       "slug": "quality-of-life",
+      "name": "Quality of Life",
       "category_type": "media"
     },
     "tags": [
@@ -165,727 +58,17 @@
     "updated_at": "2025-05-28T05:17:47.230Z"
   },
   {
-    "id": "6836a8911c88db77a8df0543",
-    "public_id": "360471",
-    "title": "ซอฟต์แวร์ไทย ยังไงก็สู้ต่างประเทศไม่ได้? Vision in Action Ep.5",
-    "content": "📌“ซอฟต์แวร์ไทย ยังไงก็สู้ต่างประเทศไม่ได้?”<br>.<br>แต่วันนี้ ทุกอย่างเปลี่ยนไปแล้ว! Tech Movement จะพาทุกท่านเจาะลึกแนวคิดและกลยุทธ์จาก คุณนิพนธ์ อัครพิมาน ประธานกรรมการบริหาร บริษัท เวอร์ติคัลเทค จำกัด<br>.<br>ที่พาธุรกิจ POS ไทยก้าวไกลสู่เวทีโลก ได้สำเร็จ<br>ติดตามได้ใน Vision in Action EP. นี้!",
-    "video_url": "https://youtu.be/2Uz7oq_KMW8?si=fzWDQi22lujCFPGj",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830188344c6ab8dafe71468",
-      "name": "Vision in Action",
-      "slug": "vision-in-action",
-      "category_type": "media"
-    },
-    "tags": [
-      "POS",
-      "thailand",
-      "INDONESIA",
-      "software",
-      "Localtech",
-      "Techmovement",
-      "MoveForBetterTH",
-      "VisioInAction",
-      "DigitalMovewithTechMovement"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T06:09:21.704Z",
-    "updated_at": "2025-05-28T06:09:21.704Z"
-  },
-  {
-    "id": "6836ab312aa7198eb32febf7",
-    "public_id": "427198",
-    "title": "ซอฟต์แวร์ไทย ข้อได้เปรียบที่ต่างชาติไม่มี? Vision in Action Ep.4",
-    "content": "📌“ซอฟต์แวร์ไทย ข้อได้เปรียบที่ต่างชาติไม่มี?”<br>.<br>Tech Movement EP. นี้ ร่วมพูดคุยกับ คุณวิทูร ธรรมธัชอารี Managing Director <br>จาก อิซปาล คอร์ปอเรชั่น ผู้พัฒนาซอฟต์แวร์ไทยที่เติบโตในตลาดสากล <br>.<br>อะไรคือจุดแข็งของซอฟต์แวร์ไทยที่ทำให้สามารถแข่งขันกับต่างชาติได้และโอกาสสำคัญที่ธุรกิจไทยต้องคว้าคืออะไร?  ติดตามได้ใน Vision in Action EP. นี้!",
-    "video_url": "https://youtu.be/v9tZ9-RQwis?si=5lp9x6SsHU5Bi9z7",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830188344c6ab8dafe71468",
-      "name": "Vision in Action",
-      "slug": "vision-in-action",
-      "category_type": "media"
-    },
-    "tags": [
-      "software",
-      "clinic",
-      "Hospital",
-      "หมอ",
-      "Doctor",
-      "Local",
-      "tech",
-      "thailand"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T06:20:33.825Z",
-    "updated_at": "2025-05-28T06:20:33.825Z"
-  },
-  {
-    "id": "6836ad0ef99a608ef2564af2",
-    "public_id": "683209",
-    "title": "เว็บไซต์ไม่ใช่เส้นชัย แต่เป็นจุดเริ่มต้นของเกมธุรกิจ! Vision in Action Ep.3",
-    "content": "📌“เว็บไซต์ไม่ใช่เส้นชัย แต่เป็นจุดเริ่มต้นของเกมธุรกิจ!”<br>แล้วอะไรที่คนมักเข้าใจผิดเกี่ยวกับการทำเว็บ?<br>.<br>Tech Movement episode นี้ ร่วมพูดคุยกับ คุณ นาวิน สุรศักดิ์กำจร ประธานกรรมการบริหาร บริษัท ควอลิตี้พลัส ครีเอชั่น จำกัด<br>.<br>ในฐานะผู้เชี่ยวชาญด้านการดูแลเว็บไซต์ จะพาทุกท่านมาร่วมไขข้อสงสัยว่า “ใช้เงินทำเว็บไม่ได้จบแค่นี้และกลยุทธ์อะไรที่ทำให้ธุรกิจขายดี!”<br>Vision in Action ep.นี้ มีคำตอบ<br>.<br>📍สามารถติดต่อสอบถามเกี่ยวกับการทำเว็บไซต์ได้ที่ :<br>https://qpc.co.th/<br>Line: @qpccoth หรือลิงก์ https://page.line.me/zjd9704q?oat_content=url..",
-    "video_url": "https://youtu.be/DnXYJkRVsIg?si=KpIf7BsftBEumN4j",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830188344c6ab8dafe71468",
-      "name": "Vision in Action",
-      "slug": "vision-in-action",
-      "category_type": "media"
-    },
-    "tags": [
-      "website",
-      "localtech",
-      "Techmovement",
-      "MoveForBetterTH",
-      "VisioInAction",
-      "DigitalMovewithTechMovement"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T06:28:30.446Z",
-    "updated_at": "2025-05-28T06:28:30.446Z"
-  },
-  {
-    "id": "6836ae569570e6ff79641d21",
-    "title": "ผู้ประกอบการไทยอยู่ Under 3.0” แล้วจะสามารถ Transform สู่ 4.0 ได้อย่างไร ? Vision In Action Ep.2",
-    "public_id": "971604",
-    "content": "📌“ผู้ประกอบการไทย ยังอยู่ Under 3.0”<br>แล้วจะสามารถ Transform สู่ 4.0 ได้อย่างไร ?<br>.<br>Tech Movement episode นี้ ร่วมพูดคุยกับ คุณ ธีวินท์ นิ่มกิตติกุล ประธานกรรมการบริหาร บริษัท ทีทีที บราเธอร์ส จำกัด<br>.<br>ในฐานะนักพัฒนาธุรกิจ ERP สู่การ Digital Transformation อย่างเต็มรูปแบบ พร้อมเผยมุมมองถึงผู้ประกอบการไทยที่ควรรู้!<br>ติดตามได้ใน Vision in Action ep.นี้",
-    "video_url": "https://youtu.be/eACfPqZQIs4?si=fCX5lrlYz3XOe35q",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830188344c6ab8dafe71468",
-      "name": "Vision in Action",
-      "slug": "vision-in-action",
-      "category_type": "media"
-    },
-    "tags": [
-      "ERP",
-      "software",
-      "localtech",
-      "Techmovement",
-      "MoveForBetterTH",
-      "VisioInAction",
-      "DigitalMovewithTechMovement"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T06:33:58.792Z",
-    "updated_at": "2025-05-28T06:33:58.792Z"
-  },
-  {
-    "id": "6836b0550ef370d2c30af03b",
-    "title": "Red Ocean อีคอมเมิร์ซ สงครามราคาที่ไทยไม่มีทางชนะ? Vision In Action Ep.1",
-    "public_id": "105738",
-    "content": "📌 อีคอมเมิร์ช สมรภูมิเดือดของ SME ไทย?<br>.<br>Nexgen Commerce ทางเลือกใหม่ของผู้ประกอบการไทยในสมรภูมิการแข่งขันอันดุเดือด <br>ที่ถูกแพลตฟอร์มต่างชาติ ตัดตอนจนแทบไม่เหลือกำไร ?<br><br>แต่ Nex Gen Commerce จะช่วยคนไทยได้อย่างไร?  <br>ติดตามได้ใน Vision In Action Ep.1!<br>.<br>📍Nexgen Commerce พร้อมสนับสนุนการลดหย่อนภาษีในการเข้าร่วมโครงการ Easy E-Receipt<br>เพื่อผลักดันการซื้อขายสินค้าและสนับสนุนผู้ขายรายย่อย ",
-    "video_url": "https://youtu.be/fpwxLWkDrHI?si=YBgMvx4PCeDHJUNg",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830188344c6ab8dafe71468",
-      "name": "Vision in Action",
-      "slug": "vision-in-action",
-      "category_type": "media"
-    },
-    "tags": [
-      "NexgenCommerce",
-      "EasyEReceipt",
-      "etax",
-      "VAT",
-      "localtech",
-      "Techmovement",
-      "MoveForBetterTH",
-      "VisioInAction",
-      "DigitalMovewithTechMovement"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T06:42:29.864Z",
-    "updated_at": "2025-05-28T06:42:29.864Z"
-  },
-  {
-    "id": "68416f495d1d2cde0a8c8087",
-    "public_id": "603917",
-    "title": "MOPH Refer ส่งต่อคนไข้แบบใหม่ เพื่อการรักษาที่ดีกว่า ! The Next Move (talk) Ep.6",
-    "content": "📌 เชื่อว่าคนไทยอาจไม่เคยรู้ว่า ระบบสาธารณสุขของประเทศไทยได้รับการจัดอันดับให้อยู่ในลำดับที่ 9 ของโลก<br>ความสำเร็จนี้ สะท้อนถึงความแข็งแกร่งของโครงสร้างระบบสุขภาพ<br>หนึ่งในโครงการ ที่ถือว่าประสบความสำเร็จเป็นอย่างมากในการลดขั้นตอนซ้ำซ้อน คือ “MOPH Refer” ที่ทำให้การส่งต่อผู้ป่วยให้มีประสิทธิภาพ ทำให้ประชาชนสามารถเข้ารับบริการทางการแพทย์ได้อย่างไร้รอยต่อ<br>Tech Movement ได้รับเกียรติจาก นายแพทย์จารุพล ตวงศิริทรัพย์ รองผู้อำนวยการสำนักสุขภาพดิจิทัล มาร่วมเพื่อเจาะลึกถึงเบื้องหลังการทำ Digital Transformation ในระบบสาธารณสุขไทย<br>เส้นทางสู่ความสำเร็จ มีความท้าทายอะไรระหว่างติดตามได้ใน The Next Move (talk) episode นี้!",
-    "video_url": "https://youtu.be/watch?v=IqAjg41LuPE",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830187f44c6ab8dafe71467",
-      "name": "The Next Move(talk)",
-      "slug": "the-next-move-talk",
-      "category_type": "media"
-    },
-    "tags": [
-      "กระทรวงสาธาณสุข",
-      "MophRefer",
-      "สำนักสุขภาพดิจิทัล",
-      "TheNextMove",
-      "Localtech",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-29T06:51:06.543Z",
-    "updated_at": "2025-05-29T06:51:06.543Z"
-  },
-  {
-    "id": "6836b25a011e32c4a97a0cbc",
-    "public_id": "284671",
-    "title": "อว.หนุน สร้างคน IT ปฏิรูปอุดมศึกษา The Next Move (Talk) Ep.5",
-    "content": "📌กระแสอาชีพใหม่กำลังเป็นที่จับตามองทั่วโลก ทั้งเรื่องทักษะที่ตลาดแรงงานต้องการ รวมถึงการเร่งพัฒนาบุคลากรให้พร้อมเข้าสู่ยุค 4.0<br>.<br>Tech Movement Episode นี้ ได้รับเกียรติจาก ศ.ดร.ศุภชัย ปทุมนากุล ปลัดกระทรวงการอุดมศึกษาวิทยาศาสตร์ วิจัย และนวัตกรรม ร่วมพูดคุยถึงแนวทางการปฏิรูปอุดมศึกษาและการเตรียมบุคลากรให้ตอบพร้อมต่ออุตสาหกรรมยุคใหม่  <br>.<br>อว.จะมีแผนในการผลักดันอย่างไร? ติดตามได้ใน The Next Move (talk) !",
-    "video_url": "https://youtu.be/2SLthO7oBG0?si=avy7J_JSkUwJh-ip",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830187f44c6ab8dafe71467",
-      "name": "The Next Move(talk)",
-      "slug": "the-next-move-talk",
-      "category_type": "media"
-    },
-    "tags": [
-      "อว",
-      "การศึกษา",
-      "กระทรวงอว",
-      "กระทรวงการอุดมศึกษาวิทยาศาสตร์วิจัยและนวัตกรรม",
-      "AI",
-      "IT",
-      "TheNextMove",
-      "Localtech",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T06:51:06.543Z",
-    "updated_at": "2025-05-28T06:51:06.543Z"
-  },
-  {
-    "id": "6836b36fe668b5c2e233e145",
-    "public_id": "760294",
-    "title": "depa หนุนซอฟแวร์ไทย สร้างเศรษฐกิจดิจิทัลอย่างยั่งยืน The Next Move (Talk) Ep.3",
-    "content": "📌Tech Movement ได้พูดคุยกับ ผศ.ดร.ณัฐพล นิมมานพัชรินทร์ ผู้อำนวยการใหญ่ของ สำนักงานส่งเสริมเศรษฐกิจดิจิทัล (depa)<br>ผู้อยู่เบื้องหลังในการสนับสนุนซอฟต์แวร์ไทยสู่ยุคดิจิทัล 4.0<br>.<br>หากสงสัยว่า depa สนับสนุนซอฟต์แวร์ไทยในด้านใด? <br>ติดตามได้ใน The Next Move (Talk) Episode นี้!",
-    "video_url": "https://youtu.be/d5K9MhnUA7g?si=vtkMxPVwlC8qStb1",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830187f44c6ab8dafe71467",
-      "name": "The Next Move(talk)",
-      "slug": "the-next-move-talk",
-      "category_type": "media"
-    },
-    "tags": [
-      "depa",
-      "dsure",
-      "สำนักงานส่งเสริมเศรษฐกิจดิจิทัล",
-      "TheNextMove",
-      "Localtech",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T06:55:43.938Z",
-    "updated_at": "2025-05-28T06:55:43.938Z"
-  },
-  {
-    "id": "6836b4bfe76c0de6ee953d92",
-    "public_id": "582107",
-    "title": "The Next Move (Talk) x สถาบันการแพทย์ฉุกเฉินแห่งชาติ Ep.2 ก้าวสู่ยุคใหม่ การแพทย์ฉุกเฉิน 4.0",
-    "content": "📌 เพราะโลกเปลี่ยนไป เทคโนโลยีจึงสำคัญ<br>สถาบันการแพทย์ฉุกเฉินแห่งชาติ ก้าวสู่ยุคใหม่ การแพทย์ฉุกเฉิน 4.0 🇹🇭<br>.<br>Transform เข้าสู่ยุคดิจิทัลอย่างเต็มรูปแบบ การเปลี่ยนแปลงครั้งนี้ส่งผลดีกับประชาชนอย่างไร?<br>.<br>ติดตามได้ใน The Next Move (Talk) x สถาบันการแพทย์ฉุกเฉินแห่งชาติ Ep.2!",
-    "video_url": "https://youtu.be/AZvvg1_j6Qo?si=evF9ecIVQF084gxD",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830187f44c6ab8dafe71467",
-      "name": "The Next Move(talk)",
-      "slug": "the-next-move-talk",
-      "category_type": "media"
-    },
-    "tags": [
-      "สถาบันการแพทย์ฉุกเฉินแห่งชาติ",
-      "IDEMS",
-      "EMSFORLIFESAVING",
-      "TheNextMove",
-      "Localtech",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:01:19.526Z",
-    "updated_at": "2025-05-28T07:01:19.526Z"
-  },
-  {
-    "id": "6836b5cdb256245fbe6d696a",
-    "title": "AI สัญชาติไทย 🇹🇭 ยืนอยู่จุดไหนท่ามกลางสมรภูมินี้กันแน่? The Next Move (Talk) x Saen D AI Ep.1",
-    "public_id": "439281",
-    "content": "📌ประเทศไทยกำลังก้าวเข้าสู่ยุคของปัญญาประดิษฐ์ (AI) อย่างเต็มตัว<br>คำถามคือ AI สัญชาติไทย 🇹🇭  ยืนอยู่จุดไหนท่ามกลางสมรภูมินี้กันแน่?<br>.<br>ร่วมไขข้อสงสัยไปด้วยกันกับ The Next Move (Talk) x Saen-D AI Ep.1!",
-    "video_url": "https://youtu.be/7oUVUkUDSBc?si=bgG0Lp90ekOMjaU-",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830187f44c6ab8dafe71467",
-      "name": "The Next Move(talk)",
-      "slug": "the-next-move-talk",
-      "category_type": "media"
-    },
-    "tags": [
-      "TheNextMove",
-      "SaenD",
-      "AI",
-      "TechMovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "GlobalTech"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:05:49.270Z",
-    "updated_at": "2025-05-28T07:05:49.270Z"
-  },
-  {
-    "id": "6836b6f0907d6b6f877418fc",
-    "public_id": "615702",
-    "title": "บริษัทเทคยักษ์ใหญ่ ประกาศเตรียมเข้าลงทุน Data Center ในประเทศไทย! The Next Move Ep.1",
-    "content": "📌บริษัทเทคยักษ์ใหญ่ ประกาศเตรียมเข้าลงทุน Data Center <br>ในประเทศไทย แล้วคนไทยได้ประโยชน์อะไรบ้าง?  ติดตามได้ใน The Next Move Episode นี้ค่ะ ! ",
-    "video_url": "https://youtu.be/gmmi68NcXxI?si=i0yYh0tJcEmWQqse",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "google",
-      "datacenter",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "thenextmove"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:10:40.988Z",
-    "updated_at": "2025-05-28T07:10:40.988Z"
-  },
-  {
-    "id": "6836bc36c2a06b4290cc645e",
-    "public_id": "243176",
-    "title": "ใครว่าองค์กรไทยไม่เจ๋ง!  คว้ารางวัลระดับโลก ASOCIO 2024 DX Awards The Next Move Ep.2",
-    "content": "📌ใครว่าองค์กรไทยไม่เจ๋ง! 🇹🇭  คว้ารางวัลระดับโลก ASOCIO 2024 DX Awards <br>มาครอง พิสูจน์ฝีมือคนไทยเก่งไม่แพ้ชาติใดในโลก!<br>.<br>The Next Move Episode นี้จะพาไปชมภาพบรรยากาศความสำเร็จพร้อมบทสัมภาษณ์คนไทยที่ไปสร้างชื่อเสียงให้กับประเทศ ณ กรุงโตเกียว ประเทศญี่ปุ่น<br>ร่วมยินดีและเป็นกำลังใจให้คนไทยกันนะคะ🥰",
-    "video_url": "https://youtu.be/KFRNCq4xor4?si=3YeZdUabem-udA5U",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "Asocio2024",
-      "thailand",
-      "TheNextMove",
-      "Localtech",
-      "technology",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:33:10.726Z",
-    "updated_at": "2025-05-28T07:33:10.726Z"
-  },
-  {
-    "id": "6836bdbf07fcfd19e89a1f97",
-    "public_id": "192834",
-    "title": "30 บาทรักษาทุกที่ Game Changer สาธารณสุขไทย The Next Move Ep.3",
-    "content": "📌30 บาทรักษาทุกที่ Game Changer สาธารณสุขไทย<br>.<br> “โครงการ “30 บาทรักษาทุกที่” หรือที่รู้จักกันในชื่อ “30 บาทรักษาทุกโรค” <br>.<br>มีเป้าหมายพลิกโฉมระบบบริการสุขภาพของประเทศ ให้ประชาชนสามารถเข้าถึงบริการที่มีคุณภาพ สะดวก และครอบคลุมทั่วประเทศ🇹🇭<br><br>การพัฒนาและยกระดับบริการให้ตอบรับกับยุค 4.0 นี้ สร้างการเปลี่ยนแปลงต่อประเทศอย่างไร?<br>.<br>มาร่วมหาคำตอบกันได้ใน The Next Move Episode นี้ค่ะ!",
-    "video_url": "https://youtu.be/cI0eZWvOLNU?si=t0St0tXHfc4Choxq",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "30บาทรักษาทุกที่",
-      "กระทรวงสาธารณสุขไทย",
-      "หลักประกันสุขภาพถ้วนหน้า",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "Thenextmove"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:39:43.427Z",
-    "updated_at": "2025-05-28T07:39:43.427Z"
-  },
-  {
-    "id": "6836beadac44bca194e6b9cc",
-    "public_id": "847302",
-    "title": "สร้าง Data Center เยอะขนาดนี้ พลังงานจะหมดประเทศไหม ?  The Next Move Ep.4",
-    "content": "📌สร้าง Data Center เยอะขนาดนี้ พลังงานจะหมดประเทศไหม ?  <br>.<br>การสร้าง Data Center เป็นสัญญาณที่ดีของการเติบโตทางเศรษฐกิจดิจิทัลของไทย <br>ซึ่งมาพร้อมกับความท้าทายด้านสิ่งแวดล้อมและการใช้พลังงานมหาศาล <br>.<br>ไทยควรรับมืออย่างไร เพื่อให้การเติบโตของอุตสาหกรรมนี้มีความยั่งยืน?<br>มาร่วมหาคำตอบกันได้ใน The Next Move Episode นี้ค่ะ! ",
-    "video_url": "https://youtu.be/ebjcRAvdmIM?si=95EawB9yDfQQJM1B",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "datacenter",
-      "ai",
-      "ไฟฟ้า ",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "Thenextmove"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:43:41.402Z",
-    "updated_at": "2025-05-28T07:43:41.402Z"
-  },
-  {
-    "id": "6836bfb99f9d2dc3d7cf9a30",
-    "public_id": "610948",
-    "title": "“DATA BREACH” ข้อมูลรั่วไหลข้ามประเทศ ถึงเวลาหรือยังที่ไทยควรให้ความสำคัญ ? The Next Move Ep.5",
-    "content": "📌“DATA BREACH” ข้อมูลรั่วไหลข้ามประเทศ <br>ถึงเวลาหรือยังที่ไทยควรให้ความสำคัญ ?<br>.<br>ไม่ใช่แค่ประเทศไทยแต่นี่คือ “ปัญหา” ที่ทั่วโลกให้ความสำคัญ <br>เพราะ “ข้อมูล” ถือเป็นสิ่งล้ำค่า และเป็นหัวใจสำคัญขับเคลื่อนเศรษฐกิจ<br>.<br>แล้วไทยมีการรับมืออย่างไรในการป้องกัน ? <br>มาร่วมหาคำตอบกันได้ใน The Next Move Episode นี้ค่ะ!",
-    "video_url": "https://youtu.be/gDnqwvN82RU?si=uMeydpNouMC8Nrbp",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "databreach",
-      "data",
-      "technology",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "Thenextmove"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:48:09.546Z",
-    "updated_at": "2025-05-28T07:48:09.546Z"
-  },
-  {
-    "id": "6836c0283e942b7cf6539a00",
-    "public_id": "712436",
-    "title": "โมเดลสร้างบุคลากร IT ในบังกาลอร์สู่ Silicon Valley แห่งเอเชีย The Next Move Ep.6",
-    "content": "📌โมเดลสร้างบุคลากร IT ในบังกาลอร์สู่ Silicon Valley แห่งเอเชีย <br>พลิกโฉมจากเมืองธรรมดาให้กลายเป็นศูนย์กลางเทคโนโลยีระดับโลกได้อย่างไร? <br>.<br>ติดตามได้ใน The Next Move Episode นี้!",
-    "video_url": "https://youtu.be/7cILMyEkyks?si=G6Wz6IzuzfvstZAS",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "siliconvalley",
-      "india",
-      "bangalore",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "Thenextmove"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:50:00.784Z",
-    "updated_at": "2025-05-28T07:50:00.784Z"
-  },
-  {
-    "id": "6836c0f117f897cae58fce29",
-    "public_id": "859031",
-    "title": "ประเทศไทย เมืองไร้ฝุ่น ความหวังหรือความฝัน ? The Next Move Ep.7",
-    "content": "📌ประเทศไทยที่ไร้ฝุ่น คือภาพในอุดมคติที่หลายคนอยากเห็น<br>แต่เราอยู่ใกล้หรือไกลจากความเป็นจริงแค่ไหน<br>.<br>อากาศบริสุทธิ์จะกลับคืนมาได้หรือไม่?<br>.<br>หาคำตอบไปพร้อมกันใน The Next Move Episode นี้!",
-    "video_url": "https://youtu.be/-HPSsLRf-xQ?si=aUHQs8d2fyAnK-Tt",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "ฝุ่น",
-      "PM25",
-      "ฝุ่นPM25",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "Thenextmove"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:53:21.838Z",
-    "updated_at": "2025-05-28T07:53:21.838Z"
-  },
-  {
-    "id": "6836c1886061376121ef5682",
-    "public_id": "146928",
-    "title": "บทเรียนจาก DeepSeek โมเดล AI พลิกขั้วอำนาจเทคโนโลยีโลก The Next Move Ep.8",
-    "content": "📌DeepSeek โมเดล AI มาแรง ที่อาจพลิกขั้วอำนาจโลกเทคโนโลยี <br>คำถามคือวันนี้ จีนเป็นผู้นำด้าน Tech เต็มตัวแล้วหรือยัง?<br>.<br>แล้วไทยถอดบทเรียนอะไรจากเรื่องนี้? <br>หาคำตอบไปพร้อมกันใน The Next Move Episode นี้!<br>",
-    "video_url": "https://youtu.be/k4DKfcILnwo?si=1xejmMZXqDdTsFf6",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "Deepseek",
-      "AI",
-      "China",
-      "Technology",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "Thenextmove"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:55:52.864Z",
-    "updated_at": "2025-05-28T07:55:52.864Z"
-  },
-  {
-    "id": "6836c2258e3d5a665e47d951",
-    "public_id": "534670",
-    "title": "จีน vs สหรัฐฯ แข่ง Tech กันใครชนะ? The Next Move Ep.10",
-    "content": "📌จีน vs สหรัฐฯ การแข่งขันที่มีเดิมพันสูงกว่าที่เคย<br>.<br>มหาอำนาจทั้งสองกำลังเร่งพัฒนาเทคโนโลยีเพื่อครองความเป็นผู้นำ<br>.<br>โลกกำลังจับตามองว่าใครจะเป็นผู้กำหนดมาตรฐานแห่งอนาคต?<br>ติดตามได้ใน The Next Move Ep.นี้!",
-    "video_url": "https://youtu.be/iPzu6wFuzgc?si=p0iYm6xtI5M4oz3A",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "AI",
-      "จีน",
-      "สหรัฐอเมริกา",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "Thenextmove"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T07:58:29.832Z",
-    "updated_at": "2025-05-28T07:58:29.832Z"
-  },
-  {
-    "id": "6836c2b1571fc7b5f305f2b5",
-    "public_id": "367240",
-    "title": "การลงทุน Data Center ชะลอทั่วโลก เกิดอะไรขึ้นกันแน่ ? The Next Move Ep.12",
-    "content": "📌การลงทุนใน Data Center กำลังกลายเป็นสมรภูมิใหม่ของบริษัทยักษ์ใหญ่ ในวงการเทคโนโลยีทั่วโลก<br>.<br>แต่ในช่วงไม่กี่เดือนที่ผ่านมา กลับเริ่มมีสัญญาณบางอย่างที่ชี้ว่า การขยายตัวอาจไม่ราบรื่นอย่างที่คาดไว้?<br>.<br>อะไรคือสาเหตุของการชะลอการลงทุนในครั้งนี้? <br>ติดตามได้ใน The Next Move episode นี้!",
-    "video_url": "https://youtu.be/iphxZqHwtkQ?si=ZCCXm5HlqFYMpP-c",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "datacenter",
-      "amazon",
-      "microsoft",
-      "technology",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "Thenextmove"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T08:00:49.755Z",
-    "updated_at": "2025-05-28T08:00:49.755Z"
-  },
-  {
-    "id": "68417264d6c2a45fccf7ed0a",
-    "public_id": "491806",
-    "title": "ค่านิยมใต้โต๊ะทำให้ไทยไม่พัฒนาเทคโนโลยีจะช่วยลดปัญหานี้ได้ ? The Next Move Ep.13",
-    "content": "📌ค่านิยมผิดๆ อย่างการจ่ายใต้โต๊ะ สินบน หรือเงินทอน ปัญหาเรื้อรังที่ฝังรากลึกในสังคมไทย เรื่องเหล่านี้ดูเหมือนจะกลายเป็นส่วนหนึ่งของระบบไปแล้ว และยังไม่มีทีท่าว่าจะหายไปง่ายๆ<br>แต่..ในอนาคต เทคโนโลยีจะสามารถหยุดการทุจริตได้จริงหรือไม่?<br>ร่วมหาคำตอบได้ในรายการ The Next Move Ep.นี้!",
-    "video_url": "https://youtu.be/watch?v=l_cES88ZjY8",
-    "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
-    },
-    "category": {
-      "id": "6830186644c6ab8dafe71466",
-      "name": "The Next Move",
-      "slug": "the-next-move",
-      "category_type": "media"
-    },
-    "tags": [
-      "Corruption",
-      "ทุจริต",
-      "คอร์รัปชัน",
-      "technology",
-      "Techmovement",
-      "MoveForBetterTH",
-      "DigitalMovewithTechMovement",
-      "Thenextmove"
-    ],
-    "page_view": 0,
-    "action": "on",
-    "created_at": "2025-05-28T08:00:49.755Z",
-    "updated_at": "2025-05-28T08:00:49.755Z"
-  },
-  {
-    "id": "6836c7175fccc769ebca0234",
+    "id": "947261",
     "public_id": "947261",
     "title": "รู้จัก Aerial Refueling เติมเชื้อเพลิงกลางอากาศ! Tech of Time Ep.1",
     "content": "สุดล้ำ ! นวัตกรรมเติมเชื้อเพลิงกลางอากาศ<br>ช่วยเรื่องอะไรให้กับวงการนักบิน แล้วปัจจุบันถูกนำมาใช้งานจริงหรือไม่?<br>Tech Of Time Episode นี้ มีคำตอบให้แล้ว!",
     "video_url": "https://youtu.be/wwDsdxRoEHw?si=NYJtuswvdRQLvE-a",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "947261.webp",
+      "alt": "Tech_of_time_Ep.1.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -897,20 +80,17 @@
     "updated_at": "2025-05-28T08:19:35.128Z"
   },
   {
-    "id": "6836c73a5fccc769ebca0235",
+    "id": "830547",
     "public_id": "830547",
     "title": "โดรนเลี้ยงสัตว์ จัดการทางปศุสัตว์ได้อย่างไร? Tech of time Ep.2",
     "content": "📌จับตาดูก้าวสำคัญของการพัฒนาเทคโนโลยี<br>“โดรนเลี้ยงสัตว์”  ช่วยส่งเสริมการจัดการทางปศุสัตว์ได้อย่างไร?  <br>ติดตามได้ใน Tech Of time Episode 2 !",
     "video_url": "https://youtu.be/4IRI-IrlG-M?si=k-Mfjw74lhJqZxFd",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "830547.webp",
+      "alt": "TECH_of_TIME_ep.2.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -922,20 +102,17 @@
     "updated_at": "2025-05-28T08:20:10.715Z"
   },
   {
-    "id": "6836c7b15fccc769ebca0236",
+    "id": "529834",
     "public_id": "529834",
     "title": "ดาวเทียม “GOES-U” ดวงตาบนฟ้าคืออะไร? Tech of time Ep.3",
     "content": "📌ดาวเทียม “GOES-U” กับภารกิจติดตามสภาพอากาศ <br>ที่หลายคนอาจยังไม่รู้ว่าดาวเทียมมีประโยชน์กับชีวิตประจำวันอย่างไร ? <br>ติดตามได้ใน Tech Of Time Episode 3 !",
     "video_url": "https://youtu.be/7ANdzLDvU98?si=HhkgjYKPWjQYqOtR",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "529834.webp",
+      "alt": "TECH_of_TIME_ep.3.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -947,20 +124,17 @@
     "updated_at": "2025-05-28T08:22:09.477Z"
   },
   {
-    "id": "6836c7d85fccc769ebca0237",
+    "id": "106483",
     "public_id": "106483",
     "title": "โดรนส่งอาหารรูปถังนม Delivery สุดล้ำจากประเทศสวีเดน Tech of time Ep.4",
     "content": "📌โดรนส่งอาหารรูปถังนม Delivery สุดล้ำจากประเทศสวีเดน✨<br>นวัตกรรมนี้เกี่ยวข้องกับสิ่งแวดล้อมอย่างไร?<br>ติดตามได้ใน Tech Of Time Episode 4!",
     "video_url": "https://youtu.be/WxFP614EGfw?si=ouLG4bPI7MFwfSkl",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "106483.webp",
+      "alt": "TECH_of_TIME_ep.4.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -980,20 +154,17 @@
     "updated_at": "2025-05-28T08:22:48.530Z"
   },
   {
-    "id": "6836c83a5fccc769ebca0238",
+    "id": "384920",
     "public_id": "384920",
     "title": "AI ความหวังใหม่ของผู้ป่วยอัมพาต Tech of time Ep.5",
     "content": "📌AI ความหวังใหม่ของผู้ป่วยอัมพาต<br>เทคโนโลยีเข้ามาช่วยสื่อสารผ่าน “ความคิด” ได้จริงหรือไม่?<br>ติดตามได้ใน Tech Of time Episode 5!",
     "video_url": "https://youtu.be/6Q0wOgPUowM?si=KMiJFnmHxHbNhTC_",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "384920.webp",
+      "alt": "TECH_of_TIME_ep.5.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1005,20 +176,17 @@
     "updated_at": "2025-05-28T08:24:26.324Z"
   },
   {
-    "id": "6836c8795fccc769ebca0239",
+    "id": "758193",
     "public_id": "758193",
     "title": "รู้หรือไม่? กว่าจะมีเครื่องปรับอากาศ ต้องใช้เวลาพัฒนากว่า 100 ปี Tech of time Ep.6",
     "content": "📌รู้หรือไม่? กว่าจะมีเครื่องปรับอากาศ ต้องใช้เวลาพัฒนากว่า 100 ปี<br>แล้วเขาพัฒนากันอย่างไร ? ติดตามได้ใน Tech of time Episode 6!",
     "video_url": "https://youtu.be/NJP_1YztvY8?si=XpE8ltyCy8feOvWB",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "758193.webp",
+      "alt": "TECH_of_TIME_ep.6.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1030,20 +198,17 @@
     "updated_at": "2025-05-28T08:25:29.673Z"
   },
   {
-    "id": "6836c9de5fccc769ebca023a",
+    "id": "301785",
     "public_id": "301785",
     "title": "สุดทึ่ง ! พลาสติกแข็งแกร่งกว่าเหล็ก 200 เท่า  Tech of time Ep.7",
     "content": "📌สุดทึ่ง ! พลาสติกแข็งแกร่งกว่าเหล็ก 200 เท่า 😱<br>เป็นไปได้จริงหรอ แต่จะทำได้อย่างไรนั้น?<br>ต้องติดตามต่อใน Tech of time Episode 7 ❗️",
     "video_url": "https://youtu.be/nsWt7KMuhIo?si=eZ_gQ6wOby_8N4eA",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "301785.webp",
+      "alt": "TECH_of_TIME_ep.7.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1055,20 +220,17 @@
     "updated_at": "2025-05-28T08:31:26.203Z"
   },
   {
-    "id": "6836ca045fccc769ebca023b",
+    "id": "694820",
     "public_id": "694820",
     "title": "เผยโฉม Rufus V1 ! หุ่นยนต์มุงหลังคาที่อาจปฏิวัติวงการก่อสร้าง Tech of time Ep.8",
     "content": "📌เผยโฉม Rufus V1 ! หุ่นยนต์มุงหลังคาที่อาจปฏิวัติวงการก่อสร้าง<br>แต่จะช่วยได้อย่างไรและมีวิธีการแบบไหน? ติดตามได้ใน Tech of time ep.8 ค่ะ ❗️",
     "video_url": "https://youtu.be/1pmpMEB28vE?si=W_LobhUMGx3vK4JZ",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "694820.webp",
+      "alt": "TECH_of_TIME_ep.8.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1088,20 +250,17 @@
     "updated_at": "2025-05-28T08:32:04.675Z"
   },
   {
-    "id": "6836ca265fccc769ebca023c",
+    "id": "158743",
     "public_id": "158743",
     "title": "แปลกใหม่ ! เกาหลีใต้พัฒนาล้อรถปรับรูปร่างได้แบบเรียลไทม์ Tech of time Ep.9",
     "content": "📌แปลกใหม่ ! เกาหลีใต้พัฒนาล้อรถปรับรูปร่างได้แบบเรียลไทม์<br>เทคโนโลยีสุดล้ำที่ทำให้ล้อใช้งานได้ในทุกสถานการณ์ แต่จะใช้งานแบบไหน<br>ติดตามได้ใน Tech of time episode 9 ค่ะ ❗️",
     "video_url": "https://youtu.be/ynbYM3_0r-E?si=OrCVfT_lHHSxA3fb",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "158743.webp",
+      "alt": "TECH_of_TIME_ep.9.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1119,20 +278,17 @@
     "updated_at": "2025-05-28T08:32:38.802Z"
   },
   {
-    "id": "6836ca525fccc769ebca023d",
+    "id": "772639",
     "public_id": "772639",
     "title": "สุดทึ่ง ! Ria หุ่นยนต์เพื่อการแพทย์ แสดงออกได้เหมือนมนุษย์จริง Tech of time Ep 10",
     "content": "📌สุดทึ่ง ! Ria หุ่นยนต์เพื่อการแพทย์ แสดงออกได้เหมือนมนุษย์จริง<br>ช่วยแกล้งเป็น \"คนไข้\" เพื่อเป็นเคสฝึกให้กับแพทย์ แต่จะช่วยได้ยังไง?<br>ติดตามได้ใน Tech of time episode 10 ค่ะ ❗️",
     "video_url": "https://youtu.be/QWk9iuVhQqE?si=pyyIvdl25TQnoXSw",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "772639.webp",
+      "alt": "TECH_of_TIME_ep.10.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1151,20 +307,17 @@
     "updated_at": "2025-05-28T08:33:22.322Z"
   },
   {
-    "id": "6836ca745fccc769ebca023e",
+    "id": "903214",
     "public_id": "903214",
     "title": "ดาวเทียม \"GPM\" เครื่องมือสำคัญที่ช่วยรับมือภัยน้ำท่วม Tech of time Ep.11",
     "content": "📌ดาวเทียม \"GPM\" เครื่องมือสำคัญที่ช่วยรับมือภัยน้ำท่วม แต่ถูกนำมาใช้แบบไหน <br>ติดตามต่อได้ใน Tech of time episode 11 ค่ะ ! ",
     "video_url": "https://youtu.be/jTpJSWisjUE?si=3lbGgGSZjTBtMLlW",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "903214.webp",
+      "alt": "TECH_of_TIME_ep.11.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1184,20 +337,17 @@
     "updated_at": "2025-05-28T08:33:56.612Z"
   },
   {
-    "id": "6836ca9d5fccc769ebca023f",
+    "id": "267198",
     "public_id": "267198",
     "title": "มือเทียมพัฒนาเพื่อผู้พิการทางแขนสามารถใช้ชีวิตได้อย่างปกติแต่จะใช้แบบไหน? Tech of time Ep.12",
     "content": "📌มือเทียมพัฒนาเพื่อผู้พิการทางแขนสามารถใช้ชีวิตได้อย่างปกติ<br>แต่จะใช้แบบไหน?  ติดตามต่อได้ใน Tech of time episode 12 ค่ะ ! ",
     "video_url": "https://youtu.be/D-MB476b56Y?si=8UQNscNoy1uUSjEQ",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "267198.webp",
+      "alt": "TECH_of_TIME_ep.12.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1216,20 +366,17 @@
     "updated_at": "2025-05-28T08:34:37.951Z"
   },
   {
-    "id": "6836cad55fccc769ebca0240",
+    "id": "580134",
     "public_id": "580134",
     "title": "เดินสับเหมือนคน “Carpentopod” โต๊ะกาแฟเดิน! Tech of time Ep.13",
     "content": "📌 เดินสับเหมือนคน😱 โปรแกรมเมอร์จากอังกฤษพัฒนา “Carpentopod” โต๊ะกาแฟเดินได้ราวกับมีชีวิต แต่จะใช้งานได้ยังไง?  <br>ติดตามได้ใน Tech of time episode 13 ค่ะ !",
     "video_url": "https://youtu.be/R3wSRfBxpSs?si=iHcs22ZCN-LZcJNC",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "580134.webp",
+      "alt": "TECH_of_TIME_ep.13.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1248,20 +395,17 @@
     "updated_at": "2025-05-28T08:35:33.318Z"
   },
   {
-    "id": "6836cb145fccc769ebca0241",
+    "id": "341902",
     "public_id": "341902",
     "title": "ล้ำไปอีกขั้น Dejaview กล้องคาดการณ์อาชญากรรมได้ล่วงหน้า Tech of time Ep.14",
     "content": "📌ล้ำไปอีกขั้น Dejaview กล้องคาดการณ์อาชญากรรมได้ล่วงหน้า🕵🏼‍♀️ แต่จะใช้งานอย่างไร? ติดตามได้ใน Tech of time episode 14 ค่ะ !<br>",
     "video_url": "https://youtu.be/we3n-jXmzC8?si=fep5yz5UjCXCtw9o",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "341902.webp",
+      "alt": "TECH_of_TIME_ep.14.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1280,20 +424,17 @@
     "updated_at": "2025-05-28T08:36:36.414Z"
   },
   {
-    "id": "6836cb335fccc769ebca0242",
+    "id": "720658",
     "public_id": "720658",
     "title": "Lawson พลิกโฉมวงการร้านสะดวกซื้อ  ใช้หุ่นยนต์เป็นพนักงานบริการลูกค้า Tech of time Ep.15",
     "content": "📌Lawson พลิกโฉมวงการร้านสะดวกซื้อ🛒  ใช้หุ่นยนต์เป็นพนักงานบริการลูกค้า  ติดตามได้ใน Tech of time episode 15 ค่ะ !",
     "video_url": "https://youtu.be/XmRUs44Ilgo?si=zZMRtoU11-99kvUV",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "720658.webp",
+      "alt": "TECH_of_TIME_ep.15.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1311,20 +452,17 @@
     "updated_at": "2025-05-28T08:37:07.750Z"
   },
   {
-    "id": "6836cb5d5fccc769ebca0243",
+    "id": "839124",
     "public_id": "839124",
     "title": "Evolv รถมินิแวนไฟฟ้า ขนส่งอัจฉริยะเพื่อสิ่งแวดล้อม  Tech of time Ep.16",
     "content": "📌 Evolv รถมินิแวนไฟฟ้า ขนส่งอัจฉริยะเพื่อสิ่งแวดล้อม  แต่จะแตกต่างกับรถไฟฟ้าทั่วไปอย่างไร 🤔 ?  ติดตามได้ใน Tech of time episode 16 ค่ะ !",
     "video_url": "https://youtu.be/HSYt53D1_YU?si=zjHK-O401kLpj0Qw",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "839124.webp",
+      "alt": "TECH_of_TIME_ep.16.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1344,20 +482,17 @@
     "updated_at": "2025-05-28T08:37:49.558Z"
   },
   {
-    "id": "6836cb865fccc769ebca0244",
+    "id": "162095",
     "public_id": "162095",
     "title": "หมวกโครเชต์สแกนคลื่นสมองแมว Tech of time Ep.17",
     "content": "📌 หมวกโครเชต์สแกนคลื่นสมองแมว🐱  ช่วยวิเคราะห์อาการปวดเรื้อรัง แล้วจะทำได้ยังไงบ้าง?  ติดตามได้ใน Tech of time Episode 17 ค่ะ !",
     "video_url": "https://youtu.be/t6txffSDnpk?si=jxQc_eP5dl2nGX_2",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "162095.webp",
+      "alt": "TECH_of_TIME_ep.17.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1376,20 +511,17 @@
     "updated_at": "2025-05-28T08:38:30.831Z"
   },
   {
-    "id": "6836cba95fccc769ebca0245",
+    "id": "491237",
     "public_id": "491237",
     "title": "“ X Caliber ” วินิจฉัยโรคน้องหมาได้ภายในไม่กี่วินาที Tech of time Ep.18",
     "content": "📌แอปพลิเคชัน  “ X Caliber ” จากเกาหลีใต้ ช่วยวินิจฉัยโรคน้องหมาได้ภายในไม่กี่วินาที แต่จะทำแบบไหน ติดตามได้ใน Tech of time episode 18 ค่ะ !",
     "video_url": "https://youtu.be/_UBrQOSuc48?si=gCDsG4PPXvhvZldD",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "491237.webp",
+      "alt": "TECH_of_TIME_ep.18.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1408,20 +540,17 @@
     "updated_at": "2025-05-28T08:39:05.915Z"
   },
   {
-    "id": "6836cbd15fccc769ebca0246",
+    "id": "376590",
     "public_id": "376590",
     "title": "ไอซ์แลนด์เตรียมลุย สร้างฟาร์มโซลาร์เซลล์ในอวกาศ Tech of time Ep.19",
     "content": "📌ไอซ์แลนด์เตรียมลุยแผน สร้างฟาร์มโซลาร์เซลล์ในอวกาศ แต่จะทำได้จริงไหม ติดตามได้ใน Tech of time episode 19 ค่ะ ! ",
     "video_url": "https://youtu.be/V814Uf4Kp14?si=wE0hHT6rKlmgfnUY",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "376590.webp",
+      "alt": "TECH_of_TIME_ep.19.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1439,20 +568,17 @@
     "updated_at": "2025-05-28T08:39:45.377Z"
   },
   {
-    "id": "6836cc025fccc769ebca0247",
+    "id": "248901",
     "public_id": "248901",
     "title": "จบปัญหาขาดไอเดีย สร้างคอนเทนต์ได้ไวขึ้นด้วย Behinder AI Tech of time Ep.20",
     "content": "📌จบปัญหาขาดไอเดีย สร้างคอนเทนต์ได้ไวขึ้นด้วย Behinder AI 📝แพลตฟอร์มที่พัฒนาโดยคนไทย ตอบโจทย์สายงานครีเอเตอร์ที่ต้องเสียเวลาคิดงานทั้งวัน แต่จะทำได้แบบไหน ติดตามได้ใน Tech of time episode 20 ค่ะ ! ",
     "video_url": "https://youtu.be/U8m9GacDS8M?si=QfCjrWL1yVCAKqMp",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "248901.webp",
+      "alt": "TECH_of_TIME_ep.20.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1471,20 +597,17 @@
     "updated_at": "2025-05-28T08:40:34.255Z"
   },
   {
-    "id": "6836cc2f5fccc769ebca0248",
+    "id": "509634",
     "public_id": "509634",
     "title": "เปลี่ยนขยะให้เป็นนวัตกรรมสุดเจ๋ง ! กลั่นน้ำทะเลเป็นน้ำดื่ม Tech of time Ep.21",
     "content": "📌เปลี่ยนขยะให้เป็นนวัตกรรมสุดเจ๋ง ! กลั่นน้ำทะเลเป็นน้ำดื่ม 3.67 ลิตร/วัน<br>ด้วยพลังงานแสงอาทิตย์จากยางรถยนต์ 🌤 🛻  แล้วหน้าตาจะเป็นแบบไหน?<br>ติดตามได้ใน Tech of time Episode 21 ค่ะ ! ",
     "video_url": "https://youtu.be/r5t7V91ywqk?si=WI0LCTtiN7WreusM",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "509634.webp",
+      "alt": "TECH_of_TIME_ep.21.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1503,20 +626,17 @@
     "updated_at": "2025-05-28T08:41:19.717Z"
   },
   {
-    "id": "6836cc585fccc769ebca0249",
+    "id": "193860",
     "public_id": "193860",
     "title": "วางมือปุ๊ป จ่ายเงินปั๊ป “Palm Payment ” ชำระเงินได้ง่ายๆด้วยฝ่ามือ Tech of time Ep.22",
     "content": "📌วางมือปุ๊ป จ่ายเงินปั๊ป  ระบบใหม่ “Palm Payment ” ชำระเงินได้ง่ายๆด้วยฝ่ามือ แต่เทคโนโลยีนี้จะล้ำแค่ไหน?  ติดตามได้ใน Tech of time episode นี้ค่ะ !",
     "video_url": "https://youtu.be/Aa858LM9iHY?si=7VrDJJA4AlQmzu05",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "193860.webp",
+      "alt": "TECH_of_TIME_ep.22.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1536,20 +656,17 @@
     "updated_at": "2025-05-28T08:42:00.557Z"
   },
   {
-    "id": "6836cc845fccc769ebca024a",
+    "id": "874213",
     "public_id": "874213",
     "title": "หุ่นยนต์งูกู้ภัย สุดยอดนวัตกรรมโดยนักศึกษาสวิส  Tech of time Ep.23",
     "content": "📌หุ่นยนต์งูกู้ภัย สุดยอดนวัตกรรมโดยนักศึกษาสวิส 🐍<br>พัฒนาเพื่อช่วยผู้ประสบภัยที่ติดอยู่ในที่เข้าถึงได้ยาก<br>แต่หน้าจะเป็นแบบไหน? ติดตามได้ใน Tech of time Episode 23 ค่ะ ! ",
     "video_url": "https://youtu.be/anOF81EpDJ4?si=II48jD_XDIYRsWRS",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "874213.webp",
+      "alt": "TECH_of_TIME_ep.23.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1570,20 +687,17 @@
     "updated_at": "2025-05-28T08:42:44.796Z"
   },
   {
-    "id": "6836ccaf5fccc769ebca024b",
+    "id": "632741",
     "public_id": "632741",
     "title": "เจ๋งแจ๋ว ! เรือกู้ภัย Wi-Fi นวัตกรรมไทยสู้ภัยน้ำท่วมภาคใต้ Tech of time Ep.24",
     "content": "📌เจ๋งแจ๋ว ! เรือกู้ภัย Wi-Fi นวัตกรรมไทยสู้ภัยน้ำท่วมภาคใต้  🚤🌊 <br>ใช้ระบบโซลาร์เซลล์จ่ายไฟสำหรับการชาร์จโทรศัพท์มือถือได้ถึง 12 เครื่อง <br>แต่จะมีหน้าตาแบบไหน ติดตามได้ใน Tech of time Episode 24 ค่ะ ! ",
     "video_url": "https://youtu.be/OOJwxcMC2c8?si=bY5ajJlh7ItHLFoj",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "632741.webp",
+      "alt": "TECH_of_TIME_ep.24.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1603,20 +717,17 @@
     "updated_at": "2025-05-28T08:43:27.351Z"
   },
   {
-    "id": "6836ccf05fccc769ebca024c",
+    "id": "713826",
     "public_id": "713826",
     "title": "หอฟอกอากาศ ดักจับฝุ่นพิษได้ทั้งเมือง Tech of time Ep 27",
     "content": "📌 หอฟอกอากาศ ดักจับฝุ่นพิษได้ทั้งเมือง ช่วยเพิ่มอากาศบริสุทธิ์ได้มากขึ้นจากเดิม 🍃 แล้วจะทำได้จริงไหม ติดตามได้ใน Tech of time episode 27 ค่ะ ! ",
     "video_url": "https://youtu.be/nmaIdgWtu_w?si=hpsjsw0PgHg5MhG6",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "713826.webp",
+      "alt": "tech_of_time_ep.27.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1636,20 +747,17 @@
     "updated_at": "2025-05-28T08:44:32.046Z"
   },
   {
-    "id": "6836cd745fccc769ebca024d",
+    "id": "286903",
     "public_id": "286903",
     "title": "หุ่นยนต์โกโกวามีจริง ?! Tech of time Ep 28",
     "content": "📌หุ่นยนต์ “โกโกวา” ใน Squid Game ไม่ใช่แค่ในซีรีส์! และในโลกของเรา มีหุ่นยนต์ที่เหมือนกับ “โกโกวา” หรือเปล่า?  ติดตามได้ใน Tech of time episode 28 ค่ะ ! ",
     "video_url": "https://youtu.be/cMlW4qAQV8U?si=kNRqh8R1-inRhcdI",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "286903.webp",
+      "alt": "tech_of_time_ep.28.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1672,20 +780,17 @@
     "updated_at": "2025-05-28T08:46:44.390Z"
   },
   {
-    "id": "6836cd995fccc769ebca024e",
+    "id": "407915",
     "public_id": "407915",
     "title": "LA กลายเป็นเมืองสีชมพู ?! Tech of time Ep 29",
     "content": "📌 ลอสแอนเจลิส ปกคลุมไปด้วยสีชมพู อาจไม่ใช่ภาพที่เราคุ้นเคย ที่เกิดขึ้นหลังใช้ “สารหน่วงไฟ” ในการดับไฟป่า แล้วสารนี้คืออะไร? มันปลอดภัยแค่ไหน? ติดตามได้ใน Tech of time episode 29 ค่ะ ! ",
     "video_url": "https://youtu.be/QFfDJoOg2KY?si=nY8a8eG5Xc2jfMmf",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "407915.webp",
+      "alt": "Tech_of_Time_ep.29.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1706,20 +811,17 @@
     "updated_at": "2025-05-28T08:47:21.415Z"
   },
   {
-    "id": "6836cdc95fccc769ebca024f",
+    "id": "349720",
     "public_id": "349720",
     "title": "ลูกบอลอัจฉริยะ มีจริงหรือเปล่า?! Tech Of Time Ep 30",
     "content": "📌 ล้ำกว่าที่เคย ! เทคโนโลยีเขย่าวงการฟุตบอลโลก ลูกบอลอัจฉริยะ แต่จะมีหน้าตาแบบไหน ติดตามได้ใน Tech of time episode 30 ค่ะ ! ",
     "video_url": "https://youtu.be/977L_K7ML2s?si=0hKNT6ri9kTT-5EN",
     "thumbnail": {
-      "id": "6836b7c2907d6b6f87741903",
-      "path": "e44ea927-9444-410f-bcec-dcef7526787d.webp",
-      "alt": "the_next_move_ep.8.webp",
-      "file_type": "media",
-      "type": "webp"
+      "type": "media",
+      "path": "349720.webp",
+      "alt": "Tech_of_Time_ep.30.webp"
     },
     "category": {
-      "id": "6836c42aa8e2e9c00c85ab9a",
       "name": "Tech of Time",
       "slug": "tech-of-time",
       "category_type": "media"
@@ -1739,5 +841,740 @@
     "action": "on",
     "created_at": "2025-05-28T08:48:09.392Z",
     "updated_at": "2025-05-28T08:48:09.392Z"
+  },
+  {
+    "id": "398176",
+    "public_id": "398176",
+    "title": "ก้าวสู่ความสำเร็จ! สพฉ. องค์กรแห่งการช่วยชีวิต The Next Move (Talk) Ep.4",
+    "content": "ก้าวสู่ความสำเร็จ! สพฉ. องค์กรแห่งการช่วยชีวิต<br>ระบบ idEMS พร้อมใช้งานจริงทั่วประเทศแล้ว<br>วันนี้ Tech Movement จะพาทุกท่านอัปเดตความก้าวหน้าของระบบการแพทย์ฉุกเฉินไทย ที่กำลังเข้าสู่ยุคใหม่อย่างเต็มรูปแบบ 🇹🇭<br>การพัฒนาครั้งนี้มีอะไรเปลี่ยนแปลงไปบ้าง?<br>ติดตามได้ใน The Next Move (Talk) x สถาบันการแพทย์ฉุกเฉินแห่งชาติ Ep.4!",
+    "video_url": "https://youtu.be/_vN_SKU25l8?si=UBHK1Am9R9mApEbV",
+    "thumbnail": {
+      "type": "media",
+      "path": "398176.webp",
+      "alt": "the_next_move_(talk)_ep4.webp"
+    },
+    "category": {
+      "slug": "the-next-move-talk",
+      "name": "The Next Move(talk)",
+      "category_type": "media"
+    },
+    "tags": [
+      "สถาบันการแพทย์ฉุกเฉินแห่งชาติ",
+      "idEMS",
+      "EMSFORLIFESAVING",
+      "TheNextMove",
+      "Localtech",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-23T06:54:39.525Z",
+    "updated_at": "2025-05-23T06:54:39.525Z"
+  },
+  {
+    "id": "603917",
+    "public_id": "603917",
+    "title": "MOPH Refer ส่งต่อคนไข้แบบใหม่ เพื่อการรักษาที่ดีกว่า ! The Next Move (talk) Ep.6",
+    "content": "📌 เชื่อว่าคนไทยอาจไม่เคยรู้ว่า ระบบสาธารณสุขของประเทศไทยได้รับการจัดอันดับให้อยู่ในลำดับที่ 9 ของโลก<br>ความสำเร็จนี้ สะท้อนถึงความแข็งแกร่งของโครงสร้างระบบสุขภาพ<br>หนึ่งในโครงการ ที่ถือว่าประสบความสำเร็จเป็นอย่างมากในการลดขั้นตอนซ้ำซ้อน คือ “MOPH Refer” ที่ทำให้การส่งต่อผู้ป่วยให้มีประสิทธิภาพ ทำให้ประชาชนสามารถเข้ารับบริการทางการแพทย์ได้อย่างไร้รอยต่อ<br>Tech Movement ได้รับเกียรติจาก นายแพทย์จารุพล ตวงศิริทรัพย์ รองผู้อำนวยการสำนักสุขภาพดิจิทัล มาร่วมเพื่อเจาะลึกถึงเบื้องหลังการทำ Digital Transformation ในระบบสาธารณสุขไทย<br>เส้นทางสู่ความสำเร็จ มีความท้าทายอะไรระหว่างติดตามได้ใน The Next Move (talk) episode นี้!",
+    "video_url": "https://youtu.be/watch?v=IqAjg41LuPE",
+    "thumbnail": {
+      "type": "media",
+      "path": "603917.webp",
+      "alt": "Cover_moph_Refer-03.webp"
+    },
+    "category": {
+      "slug": "the-next-move-talk",
+      "name": "The Next Move(talk)",
+      "category_type": "media"
+    },
+    "tags": [
+      "กระทรวงสาธาณสุข",
+      "MophRefer",
+      "สำนักสุขภาพดิจิทัล",
+      "TheNextMove",
+      "Localtech",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-29T06:51:06.543Z",
+    "updated_at": "2025-05-29T06:51:06.543Z"
+  },
+  {
+    "id": "284671",
+    "public_id": "284671",
+    "title": "อว.หนุน สร้างคน IT ปฏิรูปอุดมศึกษา The Next Move (Talk) Ep.5",
+    "content": "📌กระแสอาชีพใหม่กำลังเป็นที่จับตามองทั่วโลก ทั้งเรื่องทักษะที่ตลาดแรงงานต้องการ รวมถึงการเร่งพัฒนาบุคลากรให้พร้อมเข้าสู่ยุค 4.0<br>.<br>Tech Movement Episode นี้ ได้รับเกียรติจาก ศ.ดร.ศุภชัย ปทุมนากุล ปลัดกระทรวงการอุดมศึกษาวิทยาศาสตร์ วิจัย และนวัตกรรม ร่วมพูดคุยถึงแนวทางการปฏิรูปอุดมศึกษาและการเตรียมบุคลากรให้ตอบพร้อมต่ออุตสาหกรรมยุคใหม่  <br>.<br>อว.จะมีแผนในการผลักดันอย่างไร? ติดตามได้ใน The Next Move (talk) !",
+    "video_url": "https://youtu.be/2SLthO7oBG0?si=avy7J_JSkUwJh-ip",
+    "thumbnail": {
+      "type": "media",
+      "path": "284671.webp",
+      "alt": "the_next_move_(talk)_ep5.webp"
+    },
+    "category": {
+      "slug": "the-next-move-talk",
+      "name": "The Next Move(talk)",
+      "category_type": "media"
+    },
+    "tags": [
+      "อว",
+      "การศึกษา",
+      "กระทรวงอว",
+      "กระทรวงการอุดมศึกษาวิทยาศาสตร์วิจัยและนวัตกรรม",
+      "AI",
+      "IT",
+      "TheNextMove",
+      "Localtech",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T06:51:06.543Z",
+    "updated_at": "2025-05-28T06:51:06.543Z"
+  },
+  {
+    "id": "760294",
+    "public_id": "760294",
+    "title": "depa หนุนซอฟแวร์ไทย สร้างเศรษฐกิจดิจิทัลอย่างยั่งยืน The Next Move (Talk) Ep.3",
+    "content": "📌Tech Movement ได้พูดคุยกับ ผศ.ดร.ณัฐพล นิมมานพัชรินทร์ ผู้อำนวยการใหญ่ของ สำนักงานส่งเสริมเศรษฐกิจดิจิทัล (depa)<br>ผู้อยู่เบื้องหลังในการสนับสนุนซอฟต์แวร์ไทยสู่ยุคดิจิทัล 4.0<br>.<br>หากสงสัยว่า depa สนับสนุนซอฟต์แวร์ไทยในด้านใด? <br>ติดตามได้ใน The Next Move (Talk) Episode นี้!",
+    "video_url": "https://youtu.be/d5K9MhnUA7g?si=vtkMxPVwlC8qStb1",
+    "thumbnail": {
+      "type": "media",
+      "path": "760294.webp",
+      "alt": "the_next_move_(talk)_ep_3.webp"
+    },
+    "category": {
+      "slug": "the-next-move-talk",
+      "name": "The Next Move(talk)",
+      "category_type": "media"
+    },
+    "tags": [
+      "depa",
+      "dsure",
+      "สำนักงานส่งเสริมเศรษฐกิจดิจิทัล",
+      "TheNextMove",
+      "Localtech",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T06:55:43.938Z",
+    "updated_at": "2025-05-28T06:55:43.938Z"
+  },
+  {
+    "id": "582107",
+    "public_id": "582107",
+    "title": "The Next Move (Talk) x สถาบันการแพทย์ฉุกเฉินแห่งชาติ Ep.2 ก้าวสู่ยุคใหม่ การแพทย์ฉุกเฉิน 4.0",
+    "content": "📌 เพราะโลกเปลี่ยนไป เทคโนโลยีจึงสำคัญ<br>สถาบันการแพทย์ฉุกเฉินแห่งชาติ ก้าวสู่ยุคใหม่ การแพทย์ฉุกเฉิน 4.0 🇹🇭<br>.<br>Transform เข้าสู่ยุคดิจิทัลอย่างเต็มรูปแบบ การเปลี่ยนแปลงครั้งนี้ส่งผลดีกับประชาชนอย่างไร?<br>.<br>ติดตามได้ใน The Next Move (Talk) x สถาบันการแพทย์ฉุกเฉินแห่งชาติ Ep.2!",
+    "video_url": "https://youtu.be/AZvvg1_j6Qo?si=evF9ecIVQF084gxD",
+    "thumbnail": {
+      "type": "media",
+      "path": "582107.webp",
+      "alt": "the_next_move_(talk)_ep2.webp"
+    },
+    "category": {
+      "slug": "the-next-move-talk",
+      "name": "The Next Move(talk)",
+      "category_type": "media"
+    },
+    "tags": [
+      "สถาบันการแพทย์ฉุกเฉินแห่งชาติ",
+      "IDEMS",
+      "EMSFORLIFESAVING",
+      "TheNextMove",
+      "Localtech",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:01:19.526Z",
+    "updated_at": "2025-05-28T07:01:19.526Z"
+  },
+  {
+    "id": "439281",
+    "public_id": "439281",
+    "title": "AI สัญชาติไทย 🇹🇭 ยืนอยู่จุดไหนท่ามกลางสมรภูมินี้กันแน่? The Next Move (Talk) x Saen D AI Ep.1",
+    "content": "📌ประเทศไทยกำลังก้าวเข้าสู่ยุคของปัญญาประดิษฐ์ (AI) อย่างเต็มตัว<br>คำถามคือ AI สัญชาติไทย 🇹🇭  ยืนอยู่จุดไหนท่ามกลางสมรภูมินี้กันแน่?<br>.<br>ร่วมไขข้อสงสัยไปด้วยกันกับ The Next Move (Talk) x Saen-D AI Ep.1!",
+    "video_url": "https://youtu.be/7oUVUkUDSBc?si=bgG0Lp90ekOMjaU-",
+    "thumbnail": {
+      "type": "media",
+      "path": "439281.webp",
+      "alt": "the_next_move_(talk)_ep1.webp"
+    },
+    "category": {
+      "slug": "the-next-move-talk",
+      "name": "The Next Move(talk)",
+      "category_type": "media"
+    },
+    "tags": [
+      "TheNextMove",
+      "SaenD",
+      "AI",
+      "TechMovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "GlobalTech"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:05:49.270Z",
+    "updated_at": "2025-05-28T07:05:49.270Z"
+  },
+  {
+    "id": "928105",
+    "public_id": "928105",
+    "title": "ไทยมีแล้ว! AI Speech-to-Text เปลี่ยนคำพูดเป็นข้อมูลทางการแพทย์ The Next Move Ep.11",
+    "content": "ไทยมีแล้ว! AI Speech-to-Text เปลี่ยนคำพูดเป็นข้อมูลทางการแพทย์<br>.<br>เมื่อ AI กลายเป็นส่วนหนึ่งของชีวิตประจำวัน สาธารณสุขจึงนำเทคโนโลยีนี้มาปรับใช้ เพื่อยกระดับคุณภาพชีวิตของคนไทย<br>.<br>แต่ AI Speech-to-Text ช่วยแพทย์ประมวลอาการผู้ป่วยได้อย่างไร? และจะเปลี่ยนแปลงวงการแพทย์ไปในทิศทางไหน?<br>ติดตามได้ใน The Next Move Episode นี้!",
+    "video_url": "https://youtu.be/8DrlWpfqFA0?si=NNDp0ffTYuxVXuhO",
+    "thumbnail": {
+      "type": "media",
+      "path": "928105.webp",
+      "alt": "the_next_move_ep.11.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "AI",
+      "Healthtech",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "Thenextmove"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:58:30.832Z",
+    "updated_at": "2025-05-28T07:58:30.832Z"
+  },
+  {
+    "id": "615702",
+    "public_id": "615702",
+    "title": "บริษัทเทคยักษ์ใหญ่ ประกาศเตรียมเข้าลงทุน Data Center ในประเทศไทย! The Next Move Ep.1",
+    "content": "📌บริษัทเทคยักษ์ใหญ่ ประกาศเตรียมเข้าลงทุน Data Center <br>ในประเทศไทย แล้วคนไทยได้ประโยชน์อะไรบ้าง?  ติดตามได้ใน The Next Move Episode นี้ค่ะ ! ",
+    "video_url": "https://youtu.be/gmmi68NcXxI?si=i0yYh0tJcEmWQqse",
+    "thumbnail": {
+      "type": "media",
+      "path": "615702.webp",
+      "alt": "the_next_move_ep.1.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "google",
+      "datacenter",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "thenextmove"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:10:40.988Z",
+    "updated_at": "2025-05-28T07:10:40.988Z"
+  },
+  {
+    "id": "243176",
+    "public_id": "243176",
+    "title": "ใครว่าองค์กรไทยไม่เจ๋ง!  คว้ารางวัลระดับโลก ASOCIO 2024 DX Awards The Next Move Ep.2",
+    "content": "📌ใครว่าองค์กรไทยไม่เจ๋ง! 🇹🇭  คว้ารางวัลระดับโลก ASOCIO 2024 DX Awards <br>มาครอง พิสูจน์ฝีมือคนไทยเก่งไม่แพ้ชาติใดในโลก!<br>.<br>The Next Move Episode นี้จะพาไปชมภาพบรรยากาศความสำเร็จพร้อมบทสัมภาษณ์คนไทยที่ไปสร้างชื่อเสียงให้กับประเทศ ณ กรุงโตเกียว ประเทศญี่ปุ่น<br>ร่วมยินดีและเป็นกำลังใจให้คนไทยกันนะคะ🥰",
+    "video_url": "https://youtu.be/KFRNCq4xor4?si=3YeZdUabem-udA5U",
+    "thumbnail": {
+      "type": "media",
+      "path": "243176.webp",
+      "alt": "the_next_move_ep.2.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "Asocio2024",
+      "thailand",
+      "TheNextMove",
+      "Localtech",
+      "technology",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:33:10.726Z",
+    "updated_at": "2025-05-28T07:33:10.726Z"
+  },
+  {
+    "id": "192834",
+    "public_id": "192834",
+    "title": "30 บาทรักษาทุกที่ Game Changer สาธารณสุขไทย The Next Move Ep.3",
+    "content": "📌30 บาทรักษาทุกที่ Game Changer สาธารณสุขไทย<br>.<br> “โครงการ “30 บาทรักษาทุกที่” หรือที่รู้จักกันในชื่อ “30 บาทรักษาทุกโรค” <br>.<br>มีเป้าหมายพลิกโฉมระบบบริการสุขภาพของประเทศ ให้ประชาชนสามารถเข้าถึงบริการที่มีคุณภาพ สะดวก และครอบคลุมทั่วประเทศ🇹🇭<br><br>การพัฒนาและยกระดับบริการให้ตอบรับกับยุค 4.0 นี้ สร้างการเปลี่ยนแปลงต่อประเทศอย่างไร?<br>.<br>มาร่วมหาคำตอบกันได้ใน The Next Move Episode นี้ค่ะ!",
+    "video_url": "https://youtu.be/cI0eZWvOLNU?si=t0St0tXHfc4Choxq",
+    "thumbnail": {
+      "type": "media",
+      "path": "192834.webp",
+      "alt": "the_next_move_ep.3.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "30บาทรักษาทุกที่",
+      "กระทรวงสาธารณสุขไทย",
+      "หลักประกันสุขภาพถ้วนหน้า",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "Thenextmove"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:39:43.427Z",
+    "updated_at": "2025-05-28T07:39:43.427Z"
+  },
+  {
+    "id": "847302",
+    "public_id": "847302",
+    "title": "สร้าง Data Center เยอะขนาดนี้ พลังงานจะหมดประเทศไหม ?  The Next Move Ep.4",
+    "content": "📌สร้าง Data Center เยอะขนาดนี้ พลังงานจะหมดประเทศไหม ?  <br>.<br>การสร้าง Data Center เป็นสัญญาณที่ดีของการเติบโตทางเศรษฐกิจดิจิทัลของไทย <br>ซึ่งมาพร้อมกับความท้าทายด้านสิ่งแวดล้อมและการใช้พลังงานมหาศาล <br>.<br>ไทยควรรับมืออย่างไร เพื่อให้การเติบโตของอุตสาหกรรมนี้มีความยั่งยืน?<br>มาร่วมหาคำตอบกันได้ใน The Next Move Episode นี้ค่ะ! ",
+    "video_url": "https://youtu.be/ebjcRAvdmIM?si=95EawB9yDfQQJM1B",
+    "thumbnail": {
+      "type": "media",
+      "path": "847302.webp",
+      "alt": "the_next_move_ep.4.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "datacenter",
+      "ai",
+      "ไฟฟ้า ",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "Thenextmove"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:43:41.402Z",
+    "updated_at": "2025-05-28T07:43:41.402Z"
+  },
+  {
+    "id": "610948",
+    "public_id": "610948",
+    "title": "“DATA BREACH” ข้อมูลรั่วไหลข้ามประเทศ ถึงเวลาหรือยังที่ไทยควรให้ความสำคัญ ? The Next Move Ep.5",
+    "content": "📌“DATA BREACH” ข้อมูลรั่วไหลข้ามประเทศ <br>ถึงเวลาหรือยังที่ไทยควรให้ความสำคัญ ?<br>.<br>ไม่ใช่แค่ประเทศไทยแต่นี่คือ “ปัญหา” ที่ทั่วโลกให้ความสำคัญ <br>เพราะ “ข้อมูล” ถือเป็นสิ่งล้ำค่า และเป็นหัวใจสำคัญขับเคลื่อนเศรษฐกิจ<br>.<br>แล้วไทยมีการรับมืออย่างไรในการป้องกัน ? <br>มาร่วมหาคำตอบกันได้ใน The Next Move Episode นี้ค่ะ!",
+    "video_url": "https://youtu.be/gDnqwvN82RU?si=uMeydpNouMC8Nrbp",
+    "thumbnail": {
+      "type": "media",
+      "path": "610948.webp",
+      "alt": "the_next_move_ep.5.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "databreach",
+      "data",
+      "technology",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "Thenextmove"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:48:09.546Z",
+    "updated_at": "2025-05-28T07:48:09.546Z"
+  },
+  {
+    "id": "712436",
+    "public_id": "712436",
+    "title": "โมเดลสร้างบุคลากร IT ในบังกาลอร์สู่ Silicon Valley แห่งเอเชีย The Next Move Ep.6",
+    "content": "📌โมเดลสร้างบุคลากร IT ในบังกาลอร์สู่ Silicon Valley แห่งเอเชีย <br>พลิกโฉมจากเมืองธรรมดาให้กลายเป็นศูนย์กลางเทคโนโลยีระดับโลกได้อย่างไร? <br>.<br>ติดตามได้ใน The Next Move Episode นี้!",
+    "video_url": "https://youtu.be/7cILMyEkyks?si=G6Wz6IzuzfvstZAS",
+    "thumbnail": {
+      "type": "media",
+      "path": "712436.webp",
+      "alt": "the_next_move_ep.6.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "siliconvalley",
+      "india",
+      "bangalore",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "Thenextmove"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:50:00.784Z",
+    "updated_at": "2025-05-28T07:50:00.784Z"
+  },
+  {
+    "id": "859031",
+    "public_id": "859031",
+    "title": "ประเทศไทย เมืองไร้ฝุ่น ความหวังหรือความฝัน ? The Next Move Ep.7",
+    "content": "📌ประเทศไทยที่ไร้ฝุ่น คือภาพในอุดมคติที่หลายคนอยากเห็น<br>แต่เราอยู่ใกล้หรือไกลจากความเป็นจริงแค่ไหน<br>.<br>อากาศบริสุทธิ์จะกลับคืนมาได้หรือไม่?<br>.<br>หาคำตอบไปพร้อมกันใน The Next Move Episode นี้!",
+    "video_url": "https://youtu.be/-HPSsLRf-xQ?si=aUHQs8d2fyAnK-Tt",
+    "thumbnail": {
+      "type": "media",
+      "path": "859031.webp",
+      "alt": "the_next_move_ep.7.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "ฝุ่น",
+      "PM25",
+      "ฝุ่นPM25",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "Thenextmove"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:53:21.838Z",
+    "updated_at": "2025-05-28T07:53:21.838Z"
+  },
+  {
+    "id": "146928",
+    "public_id": "146928",
+    "title": "บทเรียนจาก DeepSeek โมเดล AI พลิกขั้วอำนาจเทคโนโลยีโลก The Next Move Ep.8",
+    "content": "📌DeepSeek โมเดล AI มาแรง ที่อาจพลิกขั้วอำนาจโลกเทคโนโลยี <br>คำถามคือวันนี้ จีนเป็นผู้นำด้าน Tech เต็มตัวแล้วหรือยัง?<br>.<br>แล้วไทยถอดบทเรียนอะไรจากเรื่องนี้? <br>หาคำตอบไปพร้อมกันใน The Next Move Episode นี้!<br>",
+    "video_url": "https://youtu.be/k4DKfcILnwo?si=1xejmMZXqDdTsFf6",
+    "thumbnail": {
+      "type": "media",
+      "path": "146928.webp",
+      "alt": "the_next_move_ep.8.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "Deepseek",
+      "AI",
+      "China",
+      "Technology",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "Thenextmove"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:55:52.864Z",
+    "updated_at": "2025-05-28T07:55:52.864Z"
+  },
+  {
+    "id": "534670",
+    "public_id": "534670",
+    "title": "จีน vs สหรัฐฯ แข่ง Tech กันใครชนะ? The Next Move Ep.10",
+    "content": "📌จีน vs สหรัฐฯ การแข่งขันที่มีเดิมพันสูงกว่าที่เคย<br>.<br>มหาอำนาจทั้งสองกำลังเร่งพัฒนาเทคโนโลยีเพื่อครองความเป็นผู้นำ<br>.<br>โลกกำลังจับตามองว่าใครจะเป็นผู้กำหนดมาตรฐานแห่งอนาคต?<br>ติดตามได้ใน The Next Move Ep.นี้!",
+    "video_url": "https://youtu.be/iPzu6wFuzgc?si=p0iYm6xtI5M4oz3A",
+    "thumbnail": {
+      "type": "media",
+      "path": "534670.webp",
+      "alt": "the_next_move_ep.10.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "AI",
+      "จีน",
+      "สหรัฐอเมริกา",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "Thenextmove"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T07:58:29.832Z",
+    "updated_at": "2025-05-28T07:58:29.832Z"
+  },
+  {
+    "id": "367240",
+    "public_id": "367240",
+    "title": "การลงทุน Data Center ชะลอทั่วโลก เกิดอะไรขึ้นกันแน่ ? The Next Move Ep.12",
+    "content": "📌การลงทุนใน Data Center กำลังกลายเป็นสมรภูมิใหม่ของบริษัทยักษ์ใหญ่ ในวงการเทคโนโลยีทั่วโลก<br>.<br>แต่ในช่วงไม่กี่เดือนที่ผ่านมา กลับเริ่มมีสัญญาณบางอย่างที่ชี้ว่า การขยายตัวอาจไม่ราบรื่นอย่างที่คาดไว้?<br>.<br>อะไรคือสาเหตุของการชะลอการลงทุนในครั้งนี้? <br>ติดตามได้ใน The Next Move episode นี้!",
+    "video_url": "https://youtu.be/iphxZqHwtkQ?si=ZCCXm5HlqFYMpP-c",
+    "thumbnail": {
+      "type": "media",
+      "path": "367240.webp",
+      "alt": "the_next_move_ep.12.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "datacenter",
+      "amazon",
+      "microsoft",
+      "technology",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "Thenextmove"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T08:00:49.755Z",
+    "updated_at": "2025-05-28T08:00:49.755Z"
+  },
+  {
+    "id": "491806",
+    "public_id": "491806",
+    "title": "ค่านิยมใต้โต๊ะทำให้ไทยไม่พัฒนาเทคโนโลยีจะช่วยลดปัญหานี้ได้ ? The Next Move Ep.13",
+    "content": "📌ค่านิยมผิดๆ อย่างการจ่ายใต้โต๊ะ สินบน หรือเงินทอน ปัญหาเรื้อรังที่ฝังรากลึกในสังคมไทย เรื่องเหล่านี้ดูเหมือนจะกลายเป็นส่วนหนึ่งของระบบไปแล้ว และยังไม่มีทีท่าว่าจะหายไปง่ายๆ<br>แต่..ในอนาคต เทคโนโลยีจะสามารถหยุดการทุจริตได้จริงหรือไม่?<br>ร่วมหาคำตอบได้ในรายการ The Next Move Ep.นี้!",
+    "video_url": "https://youtu.be/watch?v=l_cES88ZjY8",
+    "thumbnail": {
+      "type": "media",
+      "path": "491806.webp",
+      "alt": "cover_ค่านิยมใต้โต๊ะที่ทำให้เราไปไหนไม่ได้สักที_01.webp"
+    },
+    "category": {
+      "slug": "the-next-move",
+      "name": "The Next Move",
+      "category_type": "media"
+    },
+    "tags": [
+      "Corruption",
+      "ทุจริต",
+      "คอร์รัปชัน",
+      "technology",
+      "Techmovement",
+      "MoveForBetterTH",
+      "DigitalMovewithTechMovement",
+      "Thenextmove"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T08:00:49.755Z",
+    "updated_at": "2025-05-28T08:00:49.755Z"
+  },
+  {
+    "id": "215864",
+    "public_id": "215864",
+    "title": "เกมธุรกิจ ต้องมองเพื่อนเป็น “คู่ค้า” ไม่ใช่แค่ “ลูกค้า” Vision In Action Ep.6",
+    "content": "เกมธุรกิจ ต้องมองเพื่อนเป็น “คู่ค้า” ไม่ใช่แค่ “ลูกค้า”<br>.<br>Tech Movement จะมาพูดคุยกับ คุณธนา วาสุเทพรังสรรค์ กรรมการผู้จัดการ<br>บริษัท ธันวสุ บิสซิเนส คอนซัลติ้ง ซิสเต็มส์ จำกัด<br>.<br>จากนักพัฒนาซอฟต์แวร์ที่สร้างระบบ POS เพื่อใช้เองในร้านไอศกรีม สู่เจ้าของ POS<br>ที่ให้บริการธุรกิจกว่า 1,000 ราย!<br>.<br>พร้อมเผยมุมมองการทำธุรกิจผ่านแนวคิด “เพื่อน = คู่ค้า” ที่จะเปลี่ยนวิธีคิดในการสร้างความสัมพันธ์กับลูกค้า ติดตามได้ใน Vision in action EP. นี้!",
+    "video_url": "https://youtu.be/XWLLabPdVRc?si=sEIztJTt77iMyF-8",
+    "thumbnail": {
+      "type": "media",
+      "path": "215864.webp",
+      "alt": "vision_in_action_ep6.webp"
+    },
+    "category": {
+      "slug": "vision-in-action",
+      "name": "Vision in Action",
+      "category_type": "media"
+    },
+    "tags": [
+      "POS",
+      "ร้านอาหาร",
+      "thailand",
+      "software",
+      "Localtech",
+      "Techmovement",
+      "MoveForBetterTH",
+      "VisioInaction",
+      "DigitalMovewithTechMovement"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-23T06:53:01.963Z",
+    "updated_at": "2025-05-23T06:53:01.963Z"
+  },
+  {
+    "id": "360471",
+    "public_id": "360471",
+    "title": "ซอฟต์แวร์ไทย ยังไงก็สู้ต่างประเทศไม่ได้? Vision in Action Ep.5",
+    "content": "📌“ซอฟต์แวร์ไทย ยังไงก็สู้ต่างประเทศไม่ได้?”<br>.<br>แต่วันนี้ ทุกอย่างเปลี่ยนไปแล้ว! Tech Movement จะพาทุกท่านเจาะลึกแนวคิดและกลยุทธ์จาก คุณนิพนธ์ อัครพิมาน ประธานกรรมการบริหาร บริษัท เวอร์ติคัลเทค จำกัด<br>.<br>ที่พาธุรกิจ POS ไทยก้าวไกลสู่เวทีโลก ได้สำเร็จ<br>ติดตามได้ใน Vision in Action EP. นี้!",
+    "video_url": "https://youtu.be/2Uz7oq_KMW8?si=fzWDQi22lujCFPGj",
+    "thumbnail": {
+      "type": "media",
+      "path": "360471.webp",
+      "alt": "vision_in_action_ep5.webp"
+    },
+    "category": {
+      "slug": "vision-in-action",
+      "name": "Vision in Action"
+    },
+    "tags": [
+      "POS",
+      "thailand",
+      "INDONESIA",
+      "software",
+      "Localtech",
+      "Techmovement",
+      "MoveForBetterTH",
+      "VisioInAction",
+      "DigitalMovewithTechMovement"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T06:09:21.704Z",
+    "updated_at": "2025-05-28T06:09:21.704Z"
+  },
+  {
+    "id": "427198",
+    "public_id": "427198",
+    "title": "ซอฟต์แวร์ไทย ข้อได้เปรียบที่ต่างชาติไม่มี? Vision in Action Ep.4",
+    "content": "📌“ซอฟต์แวร์ไทย ข้อได้เปรียบที่ต่างชาติไม่มี?”<br>.<br>Tech Movement EP. นี้ ร่วมพูดคุยกับ คุณวิทูร ธรรมธัชอารี Managing Director <br>จาก อิซปาล คอร์ปอเรชั่น ผู้พัฒนาซอฟต์แวร์ไทยที่เติบโตในตลาดสากล <br>.<br>อะไรคือจุดแข็งของซอฟต์แวร์ไทยที่ทำให้สามารถแข่งขันกับต่างชาติได้และโอกาสสำคัญที่ธุรกิจไทยต้องคว้าคืออะไร?  ติดตามได้ใน Vision in Action EP. นี้!",
+    "video_url": "https://youtu.be/v9tZ9-RQwis?si=5lp9x6SsHU5Bi9z7",
+    "thumbnail": {
+      "type": "media",
+      "path": "427198.webp",
+      "alt": "vision_in_action_ep4.webp"
+    },
+    "category": {
+      "slug": "vision-in-action",
+      "name": "Vision in Action",
+      "category_type": "media"
+    },
+    "tags": [
+      "software",
+      "clinic",
+      "Hospital",
+      "หมอ",
+      "Doctor",
+      "Local",
+      "tech",
+      "thailand"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T06:20:33.825Z",
+    "updated_at": "2025-05-28T06:20:33.825Z"
+  },
+  {
+    "id": "683209",
+    "public_id": "683209",
+    "title": "เว็บไซต์ไม่ใช่เส้นชัย แต่เป็นจุดเริ่มต้นของเกมธุรกิจ! Vision in Action Ep.3",
+    "content": "📌“เว็บไซต์ไม่ใช่เส้นชัย แต่เป็นจุดเริ่มต้นของเกมธุรกิจ!”<br>แล้วอะไรที่คนมักเข้าใจผิดเกี่ยวกับการทำเว็บ?<br>.<br>Tech Movement episode นี้ ร่วมพูดคุยกับ คุณ นาวิน สุรศักดิ์กำจร ประธานกรรมการบริหาร บริษัท ควอลิตี้พลัส ครีเอชั่น จำกัด<br>.<br>ในฐานะผู้เชี่ยวชาญด้านการดูแลเว็บไซต์ จะพาทุกท่านมาร่วมไขข้อสงสัยว่า “ใช้เงินทำเว็บไม่ได้จบแค่นี้และกลยุทธ์อะไรที่ทำให้ธุรกิจขายดี!”<br>Vision in Action ep.นี้ มีคำตอบ<br>.<br>📍สามารถติดต่อสอบถามเกี่ยวกับการทำเว็บไซต์ได้ที่ :<br>https://qpc.co.th/<br>Line: @qpccoth หรือลิงก์ https://page.line.me/zjd9704q?oat_content=url..",
+    "video_url": "https://youtu.be/DnXYJkRVsIg?si=KpIf7BsftBEumN4j",
+    "thumbnail": {
+      "type": "media",
+      "path": "683209.webp",
+      "alt": "vision_in_action_ep3.webp"
+    },
+    "category": {
+      "slug": "vision-in-action",
+      "name": "Vision in Action",
+      "category_type": "media"
+    },
+    "tags": [
+      "website",
+      "localtech",
+      "Techmovement",
+      "MoveForBetterTH",
+      "VisioInAction",
+      "DigitalMovewithTechMovement"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T06:28:30.446Z",
+    "updated_at": "2025-05-28T06:28:30.446Z"
+  },
+  {
+    "id": "971604",
+    "public_id": "971604",
+    "title": "ผู้ประกอบการไทยอยู่ Under 3.0” แล้วจะสามารถ Transform สู่ 4.0 ได้อย่างไร ? Vision In Action Ep.2",
+    "content": "📌“ผู้ประกอบการไทย ยังอยู่ Under 3.0”<br>แล้วจะสามารถ Transform สู่ 4.0 ได้อย่างไร ?<br>.<br>Tech Movement episode นี้ ร่วมพูดคุยกับ คุณ ธีวินท์ นิ่มกิตติกุล ประธานกรรมการบริหาร บริษัท ทีทีที บราเธอร์ส จำกัด<br>.<br>ในฐานะนักพัฒนาธุรกิจ ERP สู่การ Digital Transformation อย่างเต็มรูปแบบ พร้อมเผยมุมมองถึงผู้ประกอบการไทยที่ควรรู้!<br>ติดตามได้ใน Vision in Action ep.นี้",
+    "video_url": "https://youtu.be/eACfPqZQIs4?si=fCX5lrlYz3XOe35q",
+    "thumbnail": {
+      "type": "media",
+      "path": "971604.webp",
+      "alt": "vision_in_action_ep2.webp"
+    },
+    "category": {
+      "slug": "vision-in-action",
+      "name": "Vision in Action",
+      "category_type": "media"
+    },
+    "tags": [
+      "ERP",
+      "software",
+      "localtech",
+      "Techmovement",
+      "MoveForBetterTH",
+      "VisioInAction",
+      "DigitalMovewithTechMovement"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T06:33:58.792Z",
+    "updated_at": "2025-05-28T06:33:58.792Z"
+  },
+  {
+    "id": "105738",
+    "public_id": "105738",
+    "title": "Red Ocean อีคอมเมิร์ซ สงครามราคาที่ไทยไม่มีทางชนะ? Vision In Action Ep.1",
+    "content": "📌 อีคอมเมิร์ช สมรภูมิเดือดของ SME ไทย?<br>.<br>Nexgen Commerce ทางเลือกใหม่ของผู้ประกอบการไทยในสมรภูมิการแข่งขันอันดุเดือด <br>ที่ถูกแพลตฟอร์มต่างชาติ ตัดตอนจนแทบไม่เหลือกำไร ?<br><br>แต่ Nex Gen Commerce จะช่วยคนไทยได้อย่างไร?  <br>ติดตามได้ใน Vision In Action Ep.1!<br>.<br>📍Nexgen Commerce พร้อมสนับสนุนการลดหย่อนภาษีในการเข้าร่วมโครงการ Easy E-Receipt<br>เพื่อผลักดันการซื้อขายสินค้าและสนับสนุนผู้ขายรายย่อย ",
+    "video_url": "https://youtu.be/fpwxLWkDrHI?si=YBgMvx4PCeDHJUNg",
+    "thumbnail": {
+      "type": "media",
+      "path": "105738.webp",
+      "alt": "vision_in_action_ep1.webp"
+    },
+    "category": {
+      "slug": "vision-in-action",
+      "name": "Vision in Action",
+      "category_type": "media"
+    },
+    "tags": [
+      "NexgenCommerce",
+      "EasyEReceipt",
+      "etax",
+      "VAT",
+      "localtech",
+      "Techmovement",
+      "MoveForBetterTH",
+      "VisioInAction",
+      "DigitalMovewithTechMovement"
+    ],
+    "page_view": 0,
+    "action": "on",
+    "created_at": "2025-05-28T06:42:29.864Z",
+    "updated_at": "2025-05-28T06:42:29.864Z"
   }
 ]

@@ -4,8 +4,8 @@ import type { Request, Response } from 'express';
 import newsData from '../data/news.json';
 import { successResponse, internalServerErrorResponse } from '../utils/response';
 
-// UAT Image Host (thumbnail.path จะใช้ร่วมกับอันนี้)
-const BASE_IMAGE_URL = 'https://uat.techmovement.co.th/temp_uploads/news/';
+// const BASE_IMAGE_URL = 'https://uat.techmovement.co.th/temp_uploads/news/';
+const BASE_IMAGE_URL = 'http://128.199.202.159/temp_uploads/tmm/news/';
 
 // GET /news
 // Supports:
@@ -21,8 +21,7 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
     const allNews = newsData.map((news: any) => {
       const thumbnail = news.thumbnail
         ? {
-            // url: `${BASE_IMAGE_URL}${news.thumbnail.path}`
-            url: `http://128.199.202.159/temp_uploads/tmm/news/demo66c29b20.webp`,
+            url: `${BASE_IMAGE_URL}${news.public_id}.webp`,
             alt: news.thumbnail.alt,
           }
         : null;
@@ -109,8 +108,7 @@ export const getNewsByPublicId = async (req: Request, res: Response): Promise<vo
 
     const thumbnail = news.thumbnail
       ? {
-          // url: `${BASE_IMAGE_URL}${news.thumbnail.path}`,
-          url: `http://128.199.202.159/temp_uploads/tmm/news/demo66c29b20.webp`,
+          url: `${BASE_IMAGE_URL}${news.public_id}.webp`,
           alt: news.thumbnail.alt,
         }
       : null;

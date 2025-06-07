@@ -4,8 +4,8 @@ import type { Request, Response } from 'express';
 import mediaData from '../data/media.json';
 import { successResponse, internalServerErrorResponse } from '../utils/response';
 
-// UAT image base URL for media thumbnails
-const BASE_IMAGE_URL = 'https://uat.techmovement.co.th/temp_uploads/media/';
+// const BASE_IMAGE_URL = 'https://uat.techmovement.co.th/temp_uploads/media/';
+const BASE_IMAGE_URL = 'http://128.199.202.159/temp_uploads/tmm/media/';
 
 // GET /media
 // Supports:
@@ -22,8 +22,7 @@ export const getMedia = async (req: Request, res: Response): Promise<void> => {
       ...item,
       thumbnail: item.thumbnail
         ? {
-            // url: `${BASE_IMAGE_URL}${item.thumbnail.path}`,
-            url: `http://128.199.202.159/temp_uploads/tmm/news/demo66c29b21.webp`,
+            url: `${BASE_IMAGE_URL}${item.public_id}.webp`,
             alt: item.thumbnail.alt,
           }
         : null,
@@ -98,8 +97,7 @@ export const getMediaByPublicId = async (req: Request, res: Response): Promise<v
 
     const thumbnail = media.thumbnail
       ? {
-          // url: `${BASE_IMAGE_URL}${media.thumbnail.path}`,
-          url: `http://128.199.202.159/temp_uploads/tmm/news/demo66c29b21.webp`,
+          url: `${BASE_IMAGE_URL}${media.public_id}.webp`,
           alt: media.thumbnail.alt,
         }
       : null;
