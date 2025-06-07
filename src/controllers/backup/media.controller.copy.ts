@@ -2,35 +2,48 @@
 
 import type { Request, Response } from 'express';
 import mediaData from '../data/media.json';
+import imageData from '../data/image.json';
+import categoryData from '../data/category.json';
 import { successResponse, internalServerErrorResponse } from '../utils/response';
 
-// UAT image base URL for media thumbnails
 const BASE_IMAGE_URL = 'https://uat.techmovement.co.th/temp_uploads/media/';
 
 // GET /media
 // Supports:
 // - ?search=keyword
 // - ?category=category_slug
+// - ?type=ไทย|ต่างประเทศ
 // - ?sort=newest|oldest
 // - ?limit=number&page=number
 export const getMedia = async (req: Request, res: Response): Promise<void> => {
   try {
-    const { search, category, sort, limit, page } = req.query;
+    const { search, category, type, sort, limit, page } = req.query;
 
-    // Pre-format media with full thumbnail URL
-    const allMedia = mediaData.map((item: any) => ({
-      ...item,
-      thumbnail: item.thumbnail
-        ? {
-            url: `${BASE_IMAGE_URL}${item.thumbnail.path}`,
-            alt: item.thumbnail.alt,
-          }
-        : null,
-    }));
+    const allMedia = mediaData.map((item: any) => {
+      const thumbnail = imageData.find((img: any) => img.id === item.thumbnail_id);
+      const categoryItem = categoryData.find((cat: any) => cat.id === item.category_id);
+
+      return {
+        ...item,
+        thumbnail: thumbnail
+          ? {
+              url: `${BASE_IMAGE_URL}${thumbnail.path}`,
+              alt: thumbnail.alt,
+            }
+          : null,
+        category: categoryItem
+          ?
+            {
+              id: categoryItem.id,
+              slug: categoryItem.slug,
+              name: categoryItem.name,
+            }
+          : null,
+      };
+    });
 
     let filtered = [...allMedia];
 
-    // Search filter (title + content)
     if (typeof search === 'string') {
       const keyword = search.toLowerCase();
       filtered = filtered.filter(
@@ -40,12 +53,16 @@ export const getMedia = async (req: Request, res: Response): Promise<void> => {
       );
     }
 
-    // Category slug filter
     if (typeof category === 'string') {
-      filtered = filtered.filter((item) => item.category?.slug === category);
+      filtered = filtered.filter((item) =>
+        item.category.some((cat: any) => cat.slug === category)
+      );
     }
 
-    // Sort by date
+    if (type === 'ไทย' || type === 'ต่างประเทศ') {
+      filtered = filtered.filter((item) => item.content_type === type);
+    }
+
     const isOldest = sort === 'oldest';
     filtered.sort((a, b) => {
       const aTime = new Date(a.created_at).getTime();
@@ -53,7 +70,6 @@ export const getMedia = async (req: Request, res: Response): Promise<void> => {
       return isOldest ? aTime - bTime : bTime - aTime;
     });
 
-    // Pagination
     let result = filtered;
     const meta: Record<string, any> = {};
 
@@ -64,7 +80,6 @@ export const getMedia = async (req: Request, res: Response): Promise<void> => {
       const endIndex = startIndex + limitNum;
 
       result = filtered.slice(startIndex, endIndex);
-
       meta.pagination = {
         total_items: filtered.length,
         total_pages: Math.ceil(filtered.length / limitNum),
@@ -95,18 +110,35 @@ export const getMediaByPublicId = async (req: Request, res: Response): Promise<v
       return;
     }
 
-    const thumbnail = media.thumbnail
-      ? {
-          url: `${BASE_IMAGE_URL}${media.thumbnail.path}`,
-          alt: media.thumbnail.alt,
-        }
-      : null;
+    const thumbnail = imageData.find((img: any) => img.id === media.thumbnail_id);
+    const category = categoryData.find((cat: any) => cat.id === media.category_id);
 
     successResponse(res, {
       message: 'Media fetched successfully',
       data: {
-        ...media,
-        thumbnail,
+        id: media.id,
+        public_id: media.public_id,
+        title: media.title,
+        abstract: media.content,
+        content: media.content,
+        tags: media.tags,
+        action: media.action,
+        page_view: media.page_view,
+        created_at: media.created_at,
+        updated_at: media.updated_at,
+        thumbnail: thumbnail
+          ? {
+              url: `${BASE_IMAGE_URL}${thumbnail.path}`,
+              alt: thumbnail.alt,
+            }
+          : null,
+        category: category
+          ? {
+              id: category.id,
+              slug: category.slug,
+              name: category.name,
+            }
+          : null,
       },
     });
   } catch (error) {

@@ -23,5 +23,5 @@ COPY --from=build /app/package.json ./package.json
 COPY --from=build /app/tsconfig.json ./tsconfig.json
 COPY --from=build /app/src ./src
 
-EXPOSE 8080
+EXPOSE 5173
 CMD ["bun", "run", "src/index.ts"]

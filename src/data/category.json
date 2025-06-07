@@ -1,0 +1,98 @@
+[
+  {
+    "id": "683675c1edec10a2b0f94073",
+    "name": "ความยั่งยืน",
+    "slug": "sustainability",
+    "category_type": "news",
+    "created_at": "2025-05-28T02:32:33.726Z",
+    "updated_at": "2025-05-28T02:32:33.726Z"
+  },
+  {
+    "id": "682f36ab0d4130a37f1fbe5a",
+    "name": "การแพทย์",
+    "slug": "medical",
+    "category_type": "news",
+    "created_at": "2025-05-22T14:37:31.170Z",
+    "updated_at": "2025-05-22T14:37:31.170Z"
+  },
+  {
+    "id": "682f36d20d4130a37f1fbe5b",
+    "name": "ธุรกิจไอที",
+    "slug": "it-business",
+    "category_type": "news",
+    "created_at": "2025-05-22T14:38:10.224Z",
+    "updated_at": "2025-05-22T14:38:10.224Z"
+  },
+  {
+    "id": "682f36da0d4130a37f1fbe5c",
+    "name": "สังคม",
+    "slug": "social",
+    "category_type": "news",
+    "created_at": "2025-05-22T14:38:18.730Z",
+    "updated_at": "2025-05-22T14:38:18.730Z"
+  },
+  {
+    "id": "682f36e90d4130a37f1fbe5d",
+    "name": "เศรษฐกิจ - การลงทุน",
+    "slug": "economy-investment",
+    "category_type": "news",
+    "created_at": "2025-05-22T14:38:33.672Z",
+    "updated_at": "2025-05-22T14:38:33.672Z"
+  },
+  {
+    "id": "6830186644c6ab8dafe71466",
+    "name": "The Next Move",
+    "slug": "the-next-move",
+    "category_type": "media",
+    "created_at": "2025-05-23T06:40:38.325Z",
+    "updated_at": "2025-05-23T06:40:38.325Z"
+  },
+  {
+    "id": "6830187f44c6ab8dafe71467",
+    "name": "The Next Move(talk)",
+    "slug": "the-next-move-talk",
+    "category_type": "media",
+    "created_at": "2025-05-23T06:41:03.493Z",
+    "updated_at": "2025-05-23T06:41:03.493Z"
+  },
+  {
+    "id": "6830188344c6ab8dafe71468",
+    "name": "Vision in Action",
+    "slug": "vision-in-action",
+    "category_type": "media",
+    "created_at": "2025-05-23T06:41:07.920Z",
+    "updated_at": "2025-05-23T06:41:07.920Z"
+  },
+  {
+    "id": "6830188844c6ab8dafe71469",
+    "name": "Quality of Life",
+    "slug": "quality-of-life",
+    "category_type": "media",
+    "created_at": "2025-05-23T06:41:12.398Z",
+    "updated_at": "2025-05-23T06:41:12.398Z"
+  },
+  {
+    "id": "6836c42aa8e2e9c00c85ab9a",
+    "name": "Tech of Time",
+    "slug": "tech-of-time",
+    "category_type": "media",
+    "created_at": "2025-05-28T08:07:06.816Z",
+    "updated_at": "2025-05-28T08:07:06.816Z"
+  },
+  {
+    "id": "683023dcb6a585a29a1ca17b",
+    "name": "Short Video",
+    "slug": "short-vdo",
+    "category_type": "media",
+    "created_at": "2025-05-23T07:29:32.605Z",
+    "updated_at": "2025-05-23T07:29:32.605Z"
+  },
+  {
+    "id": "6831cda19480b044aa96a1da",
+    "name": "Infographic",
+    "slug": "infographic",
+    "category_type": "Infographic",
+    "created_at": "2025-05-24T13:46:09.168Z",
+    "updated_at": "2025-05-24T13:46:09.168Z"
+  }
+]

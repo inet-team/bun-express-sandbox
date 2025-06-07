@@ -1,29 +1,40 @@
 // src/controllers/news.controller.ts
 
 import type { Request, Response } from 'express';
-import newsData from '../models/news.json';
-import type { NewsItem } from '../models/news.model';
-import {
-  successResponse,
-  internalServerErrorResponse,
-} from '../utils/response';
+import newsData from '../data/news.json';
+import { successResponse, internalServerErrorResponse } from '../utils/response';
 
-const allNews = newsData as NewsItem[];
+// UAT Image Host (thumbnail.path จะใช้ร่วมกับอันนี้)
+const BASE_IMAGE_URL = 'https://uat.techmovement.co.th/temp_uploads/news/';
 
 // GET /news
 // Supports:
-// - ?search=keyword               → filter by title or content
-// - ?category=category_slug       → filter by category slug (e.g., it-business)
-// - ?type=ไทย|ต่างประเทศ           → filter by content type
-// - ?sort=newest|oldest           → sort by created_at date
-// - ?limit=number&page=number     → pagination
+// - ?search=keyword
+// - ?category=category_slug
+// - ?type=ไทย|ต่างประเทศ
+// - ?sort=newest|oldest
+// - ?limit=number&page=number
 export const getNews = async (req: Request, res: Response): Promise<void> => {
   try {
     const { search, category, limit, page, sort, type } = req.query;
 
+    const allNews = newsData.map((news: any) => {
+      const thumbnail = news.thumbnail
+        ? {
+            url: `${BASE_IMAGE_URL}${news.thumbnail.path}`,
+            alt: news.thumbnail.alt,
+          }
+        : null;
+
+      return {
+        ...news,
+        thumbnail,
+      };
+    });
+
     let filtered = [...allNews];
 
-    // Search filter
+    // Filter: search by title or content
     if (typeof search === 'string') {
       const keyword = search.toLowerCase();
       filtered = filtered.filter(
@@ -33,19 +44,19 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
       );
     }
 
-    // Category filter by slug
+    // Filter: category slug
     if (typeof category === 'string') {
-      filtered = filtered.filter((news) =>
-        news.category.some((cat) => cat.slug === category)
+      filtered = filtered.filter(
+        (news) => news.category?.slug === category
       );
     }
 
-    // ContentType filter
+    // Filter: content_type
     if (type === 'ไทย' || type === 'ต่างประเทศ') {
       filtered = filtered.filter((news) => news.content_type === type);
     }
 
-    // Sort
+    // Sort: by created_at
     const isOldest = sort === 'oldest';
     filtered.sort((a, b) => {
       const aTime = new Date(a.created_at).getTime();
@@ -55,7 +66,8 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
 
     // Pagination
     let result = filtered;
-    const data: Record<string, any> = {};
+    const responseMeta: Record<string, any> = {};
+
     if (typeof limit === 'string' && typeof page === 'string') {
       const limitNum = parseInt(limit, 10);
       const pageNum = parseInt(page, 10);
@@ -63,7 +75,8 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
       const endIndex = startIndex + limitNum;
 
       result = filtered.slice(startIndex, endIndex);
-      data.pagination = {
+
+      responseMeta.pagination = {
         total_items: filtered.length,
         total_pages: Math.ceil(filtered.length / limitNum),
         current_page: pageNum,
@@ -74,7 +87,7 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
     successResponse(res, {
       message: 'News fetched successfully',
       data: result,
-      pagination: data.pagination || [],
+      pagination: responseMeta.pagination || [],
     });
   } catch (error) {
     internalServerErrorResponse(res, error);
@@ -82,26 +95,30 @@ export const getNews = async (req: Request, res: Response): Promise<void> => {
 };
 
 // GET /news/:id
-export const getNewsByPublicId = async (
-  req: Request,
-  res: Response
-): Promise<void> => {
+export const getNewsByPublicId = async (req: Request, res: Response): Promise<void> => {
   try {
     const { id } = req.params;
 
-    // Find the news item by public_id
-    const newsItem = allNews.find((news) => news.public_id === id);
+    const news = newsData.find((item: any) => item.public_id === id);
 
-    if (!newsItem) {
-      res.status(404).json({
-        message: 'News not found',
-      });
+    if (!news) {
+      res.status(404).json({ message: 'News not found' });
       return;
     }
 
+    const thumbnail = news.thumbnail
+      ? {
+          url: `${BASE_IMAGE_URL}${news.thumbnail.path}`,
+          alt: news.thumbnail.alt,
+        }
+      : null;
+
     successResponse(res, {
       message: 'News fetched successfully',
-      data: newsItem,
+      data: {
+        ...news,
+        thumbnail,
+      },
     });
   } catch (error) {
     internalServerErrorResponse(res, error);

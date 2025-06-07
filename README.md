@@ -81,7 +81,12 @@ To build and run the project in a container:
 
 ```bash
 docker build -t bun-express-sandbox .
-docker run -d -p 8080:8080 bun-express-sandbox
+docker run -d -p 5173:5173 bun-express-sandbox
+```
+
+```bash
+docker build -t bun-express-debug .
+docker run -d -p 5173:5173 bun-express-debug
 ```
 
 

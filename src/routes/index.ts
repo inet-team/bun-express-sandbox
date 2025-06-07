@@ -1,25 +1,23 @@
 // src/routes/index.ts
 
 import { Router } from 'express';
-import { getBanners } from '../controllers/banner.controller';
 import { getNews, getNewsByPublicId } from '../controllers/news.controller';
 import { getMedia, getMediaByPublicId } from '../controllers/media.controller';
 
 const v1Router = Router();
 const rootRouter = Router();
 
-// Root route
 rootRouter.get('/', (_req, res) => {
   res.send('API is running.');
 });
 
-// v1 routes
-v1Router.get('/banners', getBanners);
-v1Router.get('/news', getNews);
-v1Router.get('/news/:id', getNewsByPublicId);
-v1Router.get('/media', getMedia);
-v1Router.get('/media/:id', getMediaByPublicId);
+// News routes           
+v1Router.get('/news', getNews);                 // GET /api/v0/news
+v1Router.get('/news/:id', getNewsByPublicId);   // GET /api/v0/news/:id
+// Media API
+v1Router.get('/media', getMedia);               // GET /api/v0/media
+v1Router.get('/media/:id', getMediaByPublicId); // GET /api/v0/media/:id
 
-rootRouter.use('/api/v1', v1Router);
+rootRouter.use('/api/v0', v1Router);
 
 export default rootRouter;
