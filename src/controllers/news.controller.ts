@@ -4,8 +4,8 @@ import type { Request, Response } from 'express';
 import newsData from '../data/news.json';
 import { successResponse, internalServerErrorResponse } from '../utils/response';
 
-// const BASE_IMAGE_URL = 'https://uat.techmovement.co.th/temp_uploads/news/';
-const BASE_IMAGE_URL = 'http://128.199.202.159/temp_uploads/tmm/news/';
+const BASE_IMAGE_URL = 'https://uat.techmovement.co.th/tmm/news/';
+// const BASE_IMAGE_URL = 'http://128.199.202.159/temp_uploads/tmm/news/';
 
 // GET /news
 // Supports:
